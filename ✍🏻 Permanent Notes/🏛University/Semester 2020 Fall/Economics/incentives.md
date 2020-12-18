@@ -1,0 +1,1 @@
+	- Incentive is something that induces a person to act \[by offering rewards to people who change their behavior\].

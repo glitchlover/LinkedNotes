@@ -1,0 +1,163 @@
+/* my codes */
+/* responsive fonts */
+:root
+{
+--font-size-normal: clamp(12px, 3vh, 20px);
+--font-size-code: clamp(12px, 3vh, 18px);
+--font-size-side-dock: clamp(12px, 3vh, 16px);
+--font-size-side-dock-title: clamp(12px, 3vh, 18px);
+--font-size-blockquote: clamp(16px, 3vh, 22px);
+--font-size-status-bar: clamp(16px, 3vh, 16px);
+--font-small: clamp(16px, 3vh, 18px);
+--font-medium: clamp(16px, 3vh, 21px);
+}
+/* header */
+.cm-header-1,cm-header-2,cm-header-3,cm-header-4,cm-header-5,cm-header-6,cm-header-7{
+  position: relative !important;
+}
+.cm-header-1::after,cm-header-2::after,cm-header-3::after,cm-header-4::after,cm-header-5::after,cm-header-6::after,cm-header-7::after{
+  content: "" !important;
+  display: block !important;
+  max-width: 100%  !important;
+  height:2px !important;
+  position: absolute  !important;
+  background-color: grey !important;
+}
+hr{
+  width: 100% !important;
+  border-color: rgb(8, 17, 31) !important;
+}
+/* Enlarge image on hover */
+.markdown-preview-view img {
+    display: block  !important;
+    margin-top: 20pt  !important;
+    margin-bottom: 20p  !important;
+    margin-left: auto  !important;
+    margin-right: auto  !important;
+    width: 50%  !important; /*experiment with values*/
+    transition: transform 0.25s ease;
+  }
+  
+  .markdown-preview-view img:hover {
+    -webkit-transform: scale(1.2); /* experiment with values */
+    transform: scale(1.2);
+  }
+  html,
+  body, body>*
+  {
+      font-size: 20px !important;
+  }
+  markdown-preview-sizer markdown-preview-section{
+    font-size: 20px !important;
+  }
+  .cm-em,em{
+    text-decoration: underline;
+  }
+  .tag:hover {
+      color: white !important;
+  }
+  .tag[href="#card"]{
+      background-color: #19202c;
+  }
+  .tag[href^="#todos"]:before {
+      content: "⚒";
+  }
+  .tag[href^="#important"] {
+      background-color: rgba(233, 13, 13, 0.842);
+  }
+  .tag[href^="#complete"] {
+      background-color: rgb(11, 179, 75);
+  }
+  .tag[href^="#inprogress"] {
+      background-color: rgb(255, 145, 0);
+  }
+  /* outliner for the outline */
+
+  .collapsible-item-collapse {
+    padding: 2px 15px 2px 15px
+  }
+   div.collapsible-item-inner{
+    position:relative;
+    padding-left: 15px;
+
+   }
+  .outline .collapsible-item-children {
+    margin-left: 20px;
+    border-left: 1px solid rgba(118,158,165,0.2);
+    border-radius: 4px;
+    transition:all 0.5s ease-in-out;
+  }
+  .outline .collapsible-item-children:hover {
+    border-left-color: rgba(118,158,165,0.4);
+  }
+  
+  /* outliner for the file and folders */
+  .nav-folder,.nav-file{
+    margin:0 !important ;
+    border-left: 1px solid rgba(118,158,165,0.2)  !important;
+  }
+  /*============bigger link popup preview  ================*/
+  .popover.hover-popover {
+    transform: scale(0.8); /* makes the content smaller */
+    max-height: 800px;    /* was 300 */
+    min-height: 100px;
+    width: 500px;     /* was 400 */
+  }
+  /*===========image zoom ====================*/
+  .markdown-preview-view .internal-embed img {
+      max-height:50vh;
+      max-width:50vh;
+      justify-self: start;
+      cursor:zoom-in;
+    }
+  
+  .markdown-preview-view .internal-embed img:active {
+      cursor:zoom-out  !important;
+      display:block  !important;
+      z-index:100  !important;
+      position:fixed  !important;
+      max-height:100%  !important;
+      max-width:100%  !important;
+      height:100%  !important;
+      width:100%  !important;
+      object-fit: contain  !important;
+      margin:0 auto  !important;
+      text-align:center  !important;
+      top: 50%  !important;
+        transform: translateY(-50%)  !important;
+      padding:0  !important;
+      left:0  !important;
+      right:0  !important;
+      bottom:0  !important;
+      background:var(--background-primary)  !important;
+    }
+    /* file and folder */
+    .nav-folder-children .nav-file-title-content:first-child::before {
+      content: "\e924  "  !important;
+      font-family: 'IcoMoon-Free'  !important;
+    }
+    .nav-folder-children .nav-folder-title-content::before {
+      content: '\e930  '  !important;
+      font-family: 'IcoMoon-Free'  !important;
+    }
+  /* for my note only */
+  .notes>p>img{
+    max-width: 100vh  !important;
+    min-width: auto  !important;
+  }
+  p.invert> img,.notes>p>img{
+    filter: invert(100%) !important;
+  }
+  
+/* shotenning tags */
+a.tag{
+  font-size: 16px;
+  padding: 1px 8px;
+  text-align: center;
+  text-decoration: none;
+  margin: 0px 0px;
+  cursor: pointer;
+  border-radius: 14px;
+  display: inline;
+  vertical-align: middle;
+}

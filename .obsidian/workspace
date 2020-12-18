@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "e3c24d1bc8d9af01",
+    "type": "split",
+    "children": [
+      {
+        "id": "4287879c03314b95",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/TC/Turing Machine.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "a5b104f4af841b5a",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/TC/Turing Machine.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "9d938f55824c6585",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/TC/Turing Machine.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "33ba2544d8eda440",
+    "type": "split",
+    "children": [
+      {
+        "id": "3953458780b6502d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f52a7fdd420a0706",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6ba460606126fc9c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "f88f14a9fc999ad4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "\"Listview\"",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "fd11490cc9c741e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8ba4940966db694",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d6b5ef91208ac26",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "6adae2909450c4da",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/TC/Turing Machine.md",
+                "options": {
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.5087618855792589
+                }
+              }
+            }
+          },
+          {
+            "id": "958caebeccfbdfe5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/TC/Turing Machine.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5ea7c0b176dbb407",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "a94d436186c880ae",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/TC/Turing Machine.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 427.5,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/TC/Turing Machine.md",
+    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/TC/CFG ( Context Free Grammer ).md",
+    "🎈 Reference Notes/🗨Annotation/Switching_Dc_uni-1608274404332.md",
+    "🎈 Reference Notes/🗨Annotation/Data Communication -1_annotations.pdf",
+    "🎈 Reference Notes/👩🏻‍💻Code Documentation/Flutter/Tutorial/Make your first App.md",
+    "🎈 Reference Notes/👩🏻‍💻Code Documentation/Flutter/Widget/Material/Material Library.md",
+    "🎈 Reference Notes/👩🏻‍💻Code Documentation/Flutter/Tutorial/Flutter Layouts.md",
+    "🎈 Reference Notes/👩🏻‍💻Code Documentation/Flutter/Tutorial/Building Layouts.md",
+    "🎈 Reference Notes/👩🏻‍💻Code Documentation/Flutter/Widget/Widget Class.md",
+    "Error Detection and Correction.md"
+  ]
+}
