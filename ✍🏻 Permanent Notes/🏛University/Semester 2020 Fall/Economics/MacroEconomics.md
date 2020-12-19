@@ -11,7 +11,7 @@ status: [ongoing]
 
 ---
 
-[[🔴 999 Edit Later | 🔴Import form remnote]]
+[[999.2 🔴Edit Later | 🔴Import form remnote]]
 
 - **production possibility carve (ppc)**:: it is a model that shows us the tradeoff between two production while allocating _scarce/limited_ resource ^8def06
 ^1608177921348

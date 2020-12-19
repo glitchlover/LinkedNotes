@@ -1,6 +1,7 @@
 ---
 cards-deck: Digital Communication::Transmission Media
 ^1608101052669
+
 ankified?: partly
 
 lecture:
@@ -49,8 +50,9 @@ this is how utp connector looks like #card
 - UTP Performance 
 	- UTP performance depends on frequency
 	- Higher the frequency, the attention also get :: higher
+	- -![](Pasted%20image%2020201215223004.png) 
 ^1608050609758
-	-![](Pasted%20image%2020201215223004.png) 
+	
 
 
 ##### STP
@@ -72,9 +74,11 @@ This is how **Co-axial Cable** looks like - #card
 	- Coaxial cable performance relies on frequency
 	- the more the frequency, the greater the attenuation
 	- ![](Pasted%20image%2020201216123949.png)
+
 - Connector
 	- What is the connector of co-axial cable?::BNC Connector
 ^1608100890023
+
 - BNC Connector picture #card 
 	- ![](Pasted%20image%2020201216122739.png)
 ^1608100890408

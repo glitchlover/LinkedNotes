@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "4287879c03314b95",
+        "id": "d7a466989f82c823",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/TC/Turing Machine.md",
+            "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/TC/CFG ( Context Free Grammer ).md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -19,12 +19,12 @@
         }
       },
       {
-        "id": "a5b104f4af841b5a",
+        "id": "bce3a77d9ae0261a",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/TC/Turing Machine.md",
+            "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/TC/CFG ( Context Free Grammer ).md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -40,7 +40,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/TC/Turing Machine.md",
+            "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/TC/CFG ( Context Free Grammer ).md",
             "mode": "source"
           }
         }
@@ -118,7 +118,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/TC/Turing Machine.md",
+                "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/TC/CFG ( Context Free Grammer ).md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/TC/Turing Machine.md",
+                "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/TC/CFG ( Context Free Grammer ).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             }
           },
           {
-            "id": "5ea7c0b176dbb407",
+            "id": "79f43f42c5e55648",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -165,17 +165,15 @@
             }
           },
           {
-            "id": "a94d436186c880ae",
+            "id": "49076440717f7647",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/TC/Turing Machine.md"
-              }
+              "state": {}
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -183,15 +181,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/TC/Turing Machine.md",
     "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/TC/CFG ( Context Free Grammer ).md",
-    "🎈 Reference Notes/🗨Annotation/Switching_Dc_uni-1608274404332.md",
-    "🎈 Reference Notes/🗨Annotation/Data Communication -1_annotations.pdf",
-    "🎈 Reference Notes/👩🏻‍💻Code Documentation/Flutter/Tutorial/Make your first App.md",
-    "🎈 Reference Notes/👩🏻‍💻Code Documentation/Flutter/Widget/Material/Material Library.md",
-    "🎈 Reference Notes/👩🏻‍💻Code Documentation/Flutter/Tutorial/Flutter Layouts.md",
-    "🎈 Reference Notes/👩🏻‍💻Code Documentation/Flutter/Tutorial/Building Layouts.md",
-    "🎈 Reference Notes/👩🏻‍💻Code Documentation/Flutter/Widget/Widget Class.md",
-    "Error Detection and Correction.md"
+    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/TC/🔴 CNF.md",
+    "Assignment.md",
+    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/DC/Error Detection and Correction.md",
+    "_AAA/000 Index.md",
+    "_AAA/888 GitHub.md",
+    "_AAA/999.1 Todo.md",
+    "_AAA/999.2 🔴Edit Later.md",
+    "_AAA/Untitled.md",
+    "_AAA/🔴 999 Edit Later.md"
   ]
 }

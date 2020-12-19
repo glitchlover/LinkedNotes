@@ -1,4 +1,12 @@
 ---
+cards-deck: Default
+---
+
+---
+cards-deck: Default
+---
+
+---
 cards-deck: Theory of Computation::CFG
 ^1608042757278
 tags: [Automata, pushdown automata, cfl, cfg, theory of computation]
@@ -47,7 +55,7 @@ The set "{}" of all CFL is identical to the set  "{}" of languages accepted by [
 ^1608275875478
 
 ## Production
-- Def :: There are finite set of production/rules that shows the recursive definition of a language
+Def :: There are finite set of production/rules that shows the recursive definition of a language
 ^1608275875845
 
 # Formal Definition of CFG #card 
@@ -55,8 +63,48 @@ The set "{}" of all CFL is identical to the set  "{}" of languages accepted by [
 - ![[Pasted image 20201217134856.png]]
 ^1608275876212
 
-## Example
-S → aSb|ε
+## Example 
+What is the CFG Diagram of `S → aSb|ε` ? #card 
 ![[Pasted image 20201217135118.png]]
+^1608306157901
 
-# Derivation of Grammar
+## **Context Free Grammars** (CFG) can be classified on the basis of following two properties:
+
+1) Based on number of strings it generates. #card 
+	- If CFG is generating finite number of strings, then CFG is **Non-Recursive** (or Derivation)
+	- If CFG can generate infinite number of strings then the grammar is said to be **Recursive** grammar
+
+2) Based on number of derivation trees. #card
+	- If there is only 1 derivation tree then the CFG is unambiguous.
+	- If there are more than 1 derivation tree, then the CFG is [ambiguous](https://www.geeksforgeeks.org/ambiguous-grammar/).
+^1608306158295
+
+## Derivation of Grammar
+Def::A derivation of a string for a grammar is a sequence of grammar rule applications that transform the start symbol into the string.
+^1608306158734
+
+<!--ignore-->
+### Representation Technique
+- **Root vertex** − Must be labeled by the **start** symbol.
+- **Vertex** − Labeled by a **non-terminal** symbol.    
+- **Leaves** − Labeled by a **terminal** symbol or ε.
+    
+
+If S → x<sub>1</sub>x<sub>2</sub> …… x<sub>n</sub> is a production rule in a CFG, then the parse tree / derivation tree will be as follows −
+
+![https://www.tutorialspoint.com/automata_theory/images/derivation_tree.jpg](https://www.tutorialspoint.com/automata_theory/images/derivation_tree.jpg)
+
+#### There are two different approaches to draw a derivation tree − #card
+Top down approach and bottom down approach 
+^1608306159104
+
+- **Top-down Approach −** #card
+	- Starts with the starting symbol **S**
+	- Goes down to tree leaves using productions
+^1608306159485
+
+- **Bottom-up Approach −** #card
+	- Starts from tree leaves
+	- Proceeds upward to the root which is the starting symbol **S**
+^1608306159861
+

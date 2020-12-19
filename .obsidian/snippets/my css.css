@@ -1,7 +1,16 @@
 /* my codes */
+/* font family */
+
+.markdown-preview-view,
+.cm-s-obsidian, 
+.app-container{
+  font-family:Silka;
+  font-size: var(--font-editor-size);
+}
 /* responsive fonts */
 :root
 {
+--font-editor-size: clamp(12pt, 3vh, 22px);
 --font-size-normal: clamp(12px, 3vh, 20px);
 --font-size-code: clamp(12px, 3vh, 18px);
 --font-size-side-dock: clamp(12px, 3vh, 16px);
