@@ -88,7 +88,8 @@ color: #FF6900
 type: area-highlight
 created: 2020-12-18T03:50:34.532Z
 color: 
-image: https://storage.googleapis.com/polar-32b0f.appspot.com/image/1yToWpGXUDS5MoLJwDQpNgr5tAFmRotNqJS7r5Kb.png
+==![image](https://storage.googleapis.com/polar-32b0f.appspot.com/image/1yToWpGXUDS5MoLJwDQpNgr5tAFmRotNqJS7r5Kb.png)==
+
 ---
 page: 12
 type: text-highlight
@@ -107,6 +108,7 @@ type: text-highlight
 created: 2020-12-18T04:06:11.999Z
 color: yellow
 Switching at the physical layer in the traditional telephone network uses the circuit-switching approach.
+
 ---
 page: 16
 type: text-highlight
