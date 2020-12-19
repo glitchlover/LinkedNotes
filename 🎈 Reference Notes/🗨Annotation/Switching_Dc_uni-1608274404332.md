@@ -107,7 +107,7 @@ page: 13
 type: text-highlight
 created: 2020-12-18T04:06:11.999Z
 color: yellow
-Switching at the physical layer in the traditional telephone network uses the circuit-switching approach.
+==Switching at the physical layer in the traditional telephone network uses the circuit-switching approach.==
 
 ---
 page: 16
@@ -119,7 +119,8 @@ Routing table in a datagram network
 type: area-highlight
 created: 2020-12-18T04:06:58.153Z
 color: 
-image: https://storage.googleapis.com/polar-32b0f.appspot.com/image/1RvKKWTn34RL3PWqZQ9ijX4eezfunGxG5nunwiLH.png
+![image](https://storage.googleapis.com/polar-32b0f.appspot.com/image/1RvKKWTn34RL3PWqZQ9ijX4eezfunGxG5nunwiLH.png)
+
 ---
 page: 14
 type: text-highlight
