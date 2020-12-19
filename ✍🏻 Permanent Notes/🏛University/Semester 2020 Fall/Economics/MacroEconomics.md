@@ -75,9 +75,9 @@ We are creating two kinds of [[MacroEconomics#^8def06|ppc]]
 ^1608111849663
 
 - Which one of them are best and why? #card 
-	-  Futureville
+	- Futureville
 	-  because they increase the *quantity and quality* of **property resources, enlarge the stock of technological information, and improve the quality** of human resources.
-	-  ![[Pasted image 20201216153751.png]]
+	- ![[Pasted image 20201216153751.png]]
 ^1608111850022
 
 
