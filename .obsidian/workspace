@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "1f2332d1896ef9c0",
+        "id": "e1d278f60e633271",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Switching.md",
+            "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/TC/CFG ( Context Free Grammer ).md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -19,12 +19,12 @@
         }
       },
       {
-        "id": "a7af0f57a5c9c0c6",
+        "id": "4525d02eae18558f",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Switching.md",
+            "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/TC/CFG ( Context Free Grammer ).md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -40,8 +40,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Switching.md",
-            "mode": "preview"
+            "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/TC/CFG ( Context Free Grammer ).md",
+            "mode": "source"
           }
         }
       }
@@ -118,7 +118,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Switching.md",
+                "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/TC/CFG ( Context Free Grammer ).md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Switching.md",
+                "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/TC/CFG ( Context Free Grammer ).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Switching.md"
+                "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/TC/CFG ( Context Free Grammer ).md"
               }
             }
           }
@@ -183,15 +183,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/TC/CFG ( Context Free Grammer ).md",
+    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/TC/Turing Machine.md",
     "Switching.md",
     "🎈 Reference Notes/🗨Annotation/Switching_Dc_uni-1608274404332.md",
     "Untitled.md",
-    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/TC/CFG ( Context Free Grammer ).md",
     "Template/University notes.md",
     "Parabola.md",
     "Assignment.md",
     "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/DC/Transmission Media.md",
-    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Economics/think at the margin.md",
-    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Economics/MacroEconomics.md"
+    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Economics/think at the margin.md"
   ]
 }

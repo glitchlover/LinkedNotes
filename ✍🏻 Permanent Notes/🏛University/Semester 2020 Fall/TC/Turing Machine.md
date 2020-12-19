@@ -67,7 +67,7 @@ The head follow this 3 steps at each time . . . #card
 ^1608214073101
 
 ## Turing-Machine Formalism
-How many tuples does Turing Machine Defines #card
+How many tuples does Turing Machine is defined #card
 - A TM is described by 07 tuples:
 	- M= (Q,⨊ ,Γ , δ,  $q_0$ , B, F), the symbols are ..  #card
 		- Q is a *finite set of states*
