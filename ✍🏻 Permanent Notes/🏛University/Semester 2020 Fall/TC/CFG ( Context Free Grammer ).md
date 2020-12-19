@@ -77,7 +77,7 @@ What is the CFG Diagram of `S → aSb|ε` ? #card
 ^1608306158295
 
 ## Derivation of Grammar
-Def::A derivation of a string for a grammar is a sequence of grammar rule applications that transform the start symbol into the string.
+Def::A derivation of a string for a grammar is a sequence of grammar rule applications that transform the start symbol into the string.<iframe src="https://www.youtube.com/embed/u4-rpIlV9NI" class="resize-vertical" style="height: 543px;"></iframe>
 ^1608306158734
 
 <!--ignore-->
@@ -111,15 +111,18 @@ Top down approach and bottom down approach
 ^805ff3
 
 Def::A partial derivation tree is a sub-tree of a derivation tree/parse tree such that either all of its children are in the sub-tree or none of them are in the sub-tree. Also it is a string
+^1608392446619
 
 ##### Example
 If in any CFG the productions are − `S → AB, A → aaA | ε, B → Bb| ε`the partial derivation tree can be the following − #card
 ![](https://www.tutorialspoint.com/automata_theory/images/sentential_form_and_partial_derivation_tree.jpg)
 (There can be more trees to be reproduce this is just an example)
+^1608392447030
 
 #### Sentential Form 
 def::If a [[CFG ( Context Free Grammer )#^805ff3]] tree contains the root S, it is called a **sentential form**. The above sub-tree is also in sentential form. Also sentential form is a string
+^1608392447444
 
 ## Ambiguous Grammar
 Def:: A grammar said to be Ambiguous if there exists two or more derivation tree for a String w (that mean more then two left derivation tree)
-<iframe src="https://www.youtube.com/embed/jlbD0qkuEG0" class="resize-vertical"></iframe>
+^1608392447853
