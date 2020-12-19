@@ -41,7 +41,7 @@
           "type": "markdown",
           "state": {
             "file": "Parabola.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -183,6 +183,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Parabola.md",
+    "Template/University notes.md",
     "Untitled.md",
     "Assignment.md",
     "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/DC/Transmission Media.md",
@@ -190,8 +192,6 @@
     "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Economics/MacroEconomics.md",
     "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Economics/10 Principle of economics.md",
     "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/DC/Error Detection and Correction.md",
-    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/TC/CFG ( Context Free Grammer ).md",
-    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/TC/🔴 CNF.md",
-    "_AAA/000 Index.md"
+    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/TC/CFG ( Context Free Grammer ).md"
   ]
 }

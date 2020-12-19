@@ -17,7 +17,9 @@ cards-deck: Math::Geometry::Parabola
  
  
  
-### describing the image ![[Pasted image 20201219122703.png]] #card 
+### describing the image 
+describe this image #card
+![[Pasted image 20201219122703.png]] 
 - In this vertex is (h,k);
 - focus is (h+a,k);
 - Equation of directrix: x = h-a

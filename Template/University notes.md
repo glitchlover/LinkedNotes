@@ -1,12 +1,12 @@
 ---
-cards-deck: default
-	ankified?: no
+ankified?: no
 
 lecture:
 subject:
 tag:
 date: {{date: dddd Do, MMM y (DDDo)}}
 status: [ongoing]
+cards-deck: default
 ---
 
 
