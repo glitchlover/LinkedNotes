@@ -4,8 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "e1d278f60e633271",
+        "id": "896e6645d5c1b2f8",
         "type": "leaf",
+        "dimension": 25,
         "state": {
           "type": "backlink",
           "state": {
@@ -19,8 +20,9 @@
         }
       },
       {
-        "id": "4525d02eae18558f",
+        "id": "0d94872bfc0efd64",
         "type": "leaf",
+        "dimension": 25,
         "state": {
           "type": "backlink",
           "state": {
@@ -36,6 +38,7 @@
       {
         "id": "abf37cdf6d6fcc17",
         "type": "leaf",
+        "dimension": 38.3601756954612,
         "active": true,
         "state": {
           "type": "markdown",
@@ -43,7 +46,20 @@
             "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/TC/CFG ( Context Free Grammer ).md",
             "mode": "source"
           }
-        }
+        },
+        "group": "56aa970089057e4b"
+      },
+      {
+        "id": "f0caff4a62403907",
+        "type": "leaf",
+        "dimension": 11.639824304538799,
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/TC/CFG ( Context Free Grammer ).md"
+          }
+        },
+        "group": "56aa970089057e4b"
       }
     ],
     "direction": "vertical"
