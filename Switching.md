@@ -1,6 +1,28 @@
 ---
 cards-deck: Digital Communication::Swithching
 ---
+- Switched network
+- Taxonomy of switched networks
+- ![](https://storage.googleapis.com/polar-32b0f.appspot.com/image/12eXTdmNQGZVC33JAQe4bEUmitii6kfwk6rr2vXD.png)
+- Circuit-Switched Networks
+- A circuit-switched network is made of a set of switches connected by physical links, in which each link is divided into n channels.
+- A trivial circuit-switched network
+- ![]( https://storage.googleapis.com/polar-32b0f.appspot.com/image/12frXNQQsRpaoAe1fi4Zae6a7ns452r2LLfD76RX.png)
+- Datagram Networks
+- Virtual-Circuit Networks
+- A virtual-circuit network is a cross between a circuit-switched network and a datagram network
+- ![image](https://storage.googleapis.com/polar-32b0f.appspot.com/image/1yToWpGXUDS5MoLJwDQpNgr5tAFmRotNqJS7r5Kb.png)
+- Delay in a circuit-switched network
+- ![]( https://storage.googleapis.com/polar-32b0f.appspot.com/image/12TMMuJiQb7MvGnQtY4UR2vFyjWiJDc1NG4i9DGb.png)
+- Switching at the physical layer in the traditional telephone network uses the circuit-switching approach.
+- Routing table in a datagram network
+- In a   packet-switched   network,   there      is   no resource  reservation;  resources  are  allocated  on demand.
+- The destination address in the header of a packet in a datagram network remains the same during the entire journey of the packet.
+- Switching in the Internet is done by using the datagram approach to packet switching at the network layer
+- Delay in a virtual-circuit network
+- ![image](https://storage.googleapis.com/polar-32b0f.appspot.com/image/1LKFLQMy5u8oJQxBKB3EFzZN9oKiqday9Qut5Df5.png)
+- Switching at the data link layer in a switched WAN is normally implemented by using virtual- circuit techniques
+
 
 ### Virtual Circuit Identifier
 definition:: VCI is a identifier of data transfer. It has only switch scope

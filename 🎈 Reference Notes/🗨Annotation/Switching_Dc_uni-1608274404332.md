@@ -114,7 +114,7 @@ page: 16
 type: text-highlight
 created: 2020-12-18T04:06:52.193Z
 color: #9900EF
-Routing table in a datagram network
+==Routing table in a datagram network==
 ---
 type: area-highlight
 created: 2020-12-18T04:06:58.153Z
@@ -126,7 +126,7 @@ page: 14
 type: text-highlight
 created: 2020-12-18T04:26:36.416Z
 color: yellow
-In   a   packet-switched   network,   there      is   no resource  reservation;  resources  are  allocated  on demand.
+==In   a   packet-switched   network,   there      is   no resource  reservation;  resources  are  allocated  on demand.==
 ---
 type: area-highlight
 created: 2020-12-18T04:26:52.016Z
@@ -137,7 +137,7 @@ page: 17
 type: text-highlight
 created: 2020-12-18T04:27:32.011Z
 color: yellow
-The destination address in the header of a packet in a datagram network remains the same during the entire journey of the packet.
+==The destination address in the header of a packet in a datagram network remains the same during the entire journey of the packet.==
 ---
 page: 18
 type: text-highlight
@@ -154,8 +154,8 @@ page: 19
 type: text-highlight
 created: 2020-12-18T04:28:19.435Z
 color: yellow
-Switching in the Internet is done by using the datagram approach to packet switching at  the network layer
----
+==Switching in the Internet is done by using the datagram approach to packet switching at  the network layer
+==---
 page: 22
 type: text-highlight
 created: 2020-12-18T04:28:33.973Z
@@ -165,21 +165,23 @@ Virtual-circuit identifier
 type: area-highlight
 created: 2020-12-18T04:28:38.620Z
 color: 
-image: https://storage.googleapis.com/polar-32b0f.appspot.com/image/125XmpLWFQTtMkpzJBTxYjSuXSD3oPv1pkKhqz52.png
+![image](https://storage.googleapis.com/polar-32b0f.appspot.com/image/125XmpLWFQTtMkpzJBTxYjSuXSD3oPv1pkKhqz52.png)
 ---
 page: 28
 type: text-highlight
 created: 2020-12-18T04:29:13.587Z
 color: #9900EF
-Delay in a virtual-circuit network
----
+==Delay in a virtual-circuit network
+==---
 type: area-highlight
 created: 2020-12-18T04:29:22.745Z
 color: 
-image: https://storage.googleapis.com/polar-32b0f.appspot.com/image/1LKFLQMy5u8oJQxBKB3EFzZN9oKiqday9Qut5Df5.png
+==![image](https://storage.googleapis.com/polar-32b0f.appspot.com/image/1LKFLQMy5u8oJQxBKB3EFzZN9oKiqday9Qut5Df5.png)==
+
 ---
 page: 29
 type: text-highlight
 created: 2020-12-18T04:29:44.643Z
 color: yellow
-Switching at the data link layer in a switched WAN is normally implemented by using virtual- circuit techniques
+==Switching at the data link layer in a switched WAN is normally implemented by using virtual- circuit techniques
+==

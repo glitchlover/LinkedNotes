@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "e36b87fb12cf1552",
+        "id": "1f2332d1896ef9c0",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "🎈 Reference Notes/🗨Annotation/Switching_Dc_uni-1608274404332.md",
+            "file": "Switching.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -19,12 +19,12 @@
         }
       },
       {
-        "id": "0005861728409d4f",
+        "id": "a7af0f57a5c9c0c6",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "🎈 Reference Notes/🗨Annotation/Switching_Dc_uni-1608274404332.md",
+            "file": "Switching.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -34,14 +34,14 @@
         }
       },
       {
-        "id": "f75c050af3462245",
+        "id": "abf37cdf6d6fcc17",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "🎈 Reference Notes/🗨Annotation/Switching_Dc_uni-1608274404332.md",
-            "mode": "source"
+            "file": "Switching.md",
+            "mode": "preview"
           }
         }
       }
@@ -118,7 +118,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "🎈 Reference Notes/🗨Annotation/Switching_Dc_uni-1608274404332.md",
+                "file": "Switching.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🎈 Reference Notes/🗨Annotation/Switching_Dc_uni-1608274404332.md",
+                "file": "Switching.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🎈 Reference Notes/🗨Annotation/Switching_Dc_uni-1608274404332.md"
+                "file": "Switching.md"
               }
             }
           }
@@ -183,6 +183,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Switching.md",
     "🎈 Reference Notes/🗨Annotation/Switching_Dc_uni-1608274404332.md",
     "Untitled.md",
     "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/TC/CFG ( Context Free Grammer ).md",
@@ -191,7 +192,6 @@
     "Assignment.md",
     "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/DC/Transmission Media.md",
     "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Economics/think at the margin.md",
-    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Economics/MacroEconomics.md",
-    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Economics/10 Principle of economics.md"
+    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Economics/MacroEconomics.md"
   ]
 }
