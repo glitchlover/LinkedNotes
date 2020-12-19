@@ -122,4 +122,4 @@ def::If a [[CFG ( Context Free Grammer )#^805ff3]] tree contains the root S, it 
 
 ## Ambiguous Grammar
 Def:: A grammar said to be Ambiguous if there exists two or more derivation tree for a String w (that mean more then two left derivation tree)
-
+<iframe src="https://www.youtube.com/embed/jlbD0qkuEG0" class="resize-vertical"></iframe>
