@@ -119,9 +119,11 @@ hr{
   }
   /*===========image zoom ====================*/
   .markdown-preview-view .internal-embed img {
+      display: flex;
       max-height:50vh;
       max-width:50vh;
       justify-self: start;
+      align-items: start;
       cursor:zoom-in;
     }
   
@@ -135,10 +137,9 @@ hr{
       height:100%  !important;
       width:100%  !important;
       object-fit: contain  !important;
-      margin:0 auto  !important;
-      text-align:center  !important;
+      margin:2px !important;
       top: 50%  !important;
-        transform: translateY(-50%)  !important;
+      transform: translateY(-50%)  !important;
       padding:0  !important;
       left:0  !important;
       right:0  !important;

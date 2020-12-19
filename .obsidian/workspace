@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "cba60f47f2e1e551",
+        "id": "e36b87fb12cf1552",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Parabola.md",
+            "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/TC/CFG ( Context Free Grammer ).md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -19,12 +19,12 @@
         }
       },
       {
-        "id": "465c49ea1044ed63",
+        "id": "0005861728409d4f",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Parabola.md",
+            "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/TC/CFG ( Context Free Grammer ).md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -40,8 +40,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Parabola.md",
-            "mode": "preview"
+            "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/TC/CFG ( Context Free Grammer ).md",
+            "mode": "source"
           }
         }
       }
@@ -91,8 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "fd11490cc9c741e0",
@@ -118,7 +117,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Parabola.md",
+                "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/TC/CFG ( Context Free Grammer ).md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -147,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Parabola.md",
+                "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/TC/CFG ( Context Free Grammer ).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Parabola.md"
+                "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/TC/CFG ( Context Free Grammer ).md"
               }
             }
           }
@@ -183,15 +182,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Parabola.md",
+    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/TC/CFG ( Context Free Grammer ).md",
     "Template/University notes.md",
+    "Parabola.md",
     "Untitled.md",
     "Assignment.md",
     "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/DC/Transmission Media.md",
     "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Economics/think at the margin.md",
     "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Economics/MacroEconomics.md",
     "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Economics/10 Principle of economics.md",
-    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/DC/Error Detection and Correction.md",
-    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/TC/CFG ( Context Free Grammer ).md"
+    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/DC/Error Detection and Correction.md"
   ]
 }
