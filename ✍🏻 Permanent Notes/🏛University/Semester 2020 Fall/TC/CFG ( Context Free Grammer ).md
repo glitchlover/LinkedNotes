@@ -119,3 +119,7 @@ If in any CFG the productions are − `S → AB, A → aaA | ε, B → Bb| ε`th
 
 #### Sentential Form 
 def::If a [[CFG ( Context Free Grammer )#^805ff3]] tree contains the root S, it is called a **sentential form**. The above sub-tree is also in sentential form. Also sentential form is a string
+
+## Ambiguous Grammar
+Def:: A grammar said to be Ambiguous if there exists two or more derivation tree for a String w (that mean more then two left derivation tree)
+
