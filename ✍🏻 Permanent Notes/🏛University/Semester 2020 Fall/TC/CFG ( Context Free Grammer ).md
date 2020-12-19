@@ -95,13 +95,23 @@ If S → x<sub>1</sub>x<sub>2</sub> …… x<sub>n</sub> is a production rule in
 Top down approach and bottom down approach 
 ^1608306159104
 
-- **Top-down Approach −** #card
+- **Top-down Approach −**  #card
 	- Starts with the starting symbol **S**
 	- Goes down to tree leaves using productions
 ^1608306159485
 
-- **Bottom-up Approach −** #card
+- **Bottom-up Approach −**  #card
 	- Starts from tree leaves
 	- Proceeds upward to the root which is the starting symbol **S**
 ^1608306159861
 
+### Sentential Form and Partial Derivation Tree
+#### Partial Derivation Tree
+Def::A partial derivation tree is a sub-tree of a derivation tree/parse tree such that either all of its children are in the sub-tree or none of them are in the sub-tree.
+
+##### Example
+If in any CFG the productions are −S → AB, A → aaA | ε, B → Bb| ε the partial derivation tree can be the following −
+![](https://www.tutorialspoint.com/automata_theory/images/sentential_form_and_partial_derivation_tree.jpg)
+
+
+If a partial derivation tree contains the root S, it is called a **sentential form**. The above sub-tree is also in sentential form.
