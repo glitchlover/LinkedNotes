@@ -103,4 +103,5 @@ Top down approach and bottom down approach
 - **Bottom-up Approach −** #card
 	- Starts from tree leaves
 	- Proceeds upward to the root which is the starting symbol **S**
-^
+^1608306159861
+
