@@ -63,7 +63,8 @@ We can find humming distance using the gate . . . ::XOR
 if we want to find n errors then minimum humming distance is :: $d_min = n+1$
 ^1608472613443
 #### How the codewords are generated?
-codewords are generated such a way that 
+- **Using parity code** ::codewords are generated such a way that every time parity checker checks the datawords gets true
+-  
 
 
 ###  Parity 
