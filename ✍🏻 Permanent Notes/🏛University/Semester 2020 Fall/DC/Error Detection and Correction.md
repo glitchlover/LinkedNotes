@@ -48,13 +48,17 @@ here is how it is done #card
 ^1608471052386
 
 ### Hamming Distance
-Def:: Humming distance is the difference between two words in the number of different corresponding bits
+Def::The Hamming distance between two codewords is simply the number of bit positions in which they differ.
 
--   How to detect two error?
--   How to generate codewords
-    -   Parity
-        -   Parity code 
-        -   Not good
+#### How to find the Humming distance
+We can find humming distance using the gate . . . ::XOR
+
+#### Minimum Humming Distance
+if we want to find n errors then minimum humming distance is :: $d_min = n+1$
+
+-   Parity
+	-   Parity code 
+	-   Not good
 -   How to correct the massage
 -   What happened to odd and even errors
 -   Two Dimension parity checker
