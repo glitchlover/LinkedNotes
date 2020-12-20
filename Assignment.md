@@ -63,3 +63,13 @@ date updated: '2020-12-20T11:42:42+06:00'
 
 >Bangladesh’s point-to-point general inflation rate has increased to 6.44 per cent in October, the highest in seven years, amid the coronavirus (COvid-19) pandemic.
 > [source](https://thefinancialexpress.com.bd/economy/bangladeshs-inflation-rises-to-644pc-in-october-highest-in-seven-years-1604550053)
+
+>According to UNCTAD's latest nowcasts (run on 8.12.2020), the value of global merchandise trade is predicted to fall by 5.6% in 2020 compared with last year. This would be the biggest fall in merchandise trade since 2009, when trade fell by 22%. This is a significantly more optimistic nowcast than only a few weeks ago when UNCTAD nowcasts were estimating a fall of 9%.
+
+>The nowcasts – data-led projections for the immediate future – were published today as part of UNCTAD’s comprehensive annual [Handbook of Statistics for 2020](https://unctad.org/webflyer/handbook-statistics-2020), which presents the statistical landscape for 2019 with nowcasts for 2020.
+
+>The predicted decline in services trade is much greater, with services likely to fall by 15.4% in 2020 compared with 2019. This would be the biggest decline in services trade since 1990, when this series began. In 2009, following the global financial crisis, services trade fell by 9.5%
+
+> [source](https://unctad.org/news/covid-19-drives-large-international-trade-declines-2020)
+
+# Policy in different country for Covid-19
