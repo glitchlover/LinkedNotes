@@ -8,7 +8,6 @@ tags:
 ^1608393330307 computation
 status:
   - ongoing
-cards-deck: 'Theory of Computation::CFG'
 date updated: '2020-12-19T21:54:58+06:00'
 
 cards-deck: Theory of Computation::CFG
