@@ -1,4 +1,8 @@
 ---
+cards-deck: Default
+---
+
+---
 ankified?: 'no'
 lecture: null
 subject:
@@ -49,12 +53,15 @@ here is how it is done #card
 
 ### Hamming Distance
 Def::The Hamming distance between two codewords is simply the number of bit positions in which they differ.
+^1608472612356
 
 #### How to find the Humming distance
 We can find humming distance using the gate . . . ::XOR
+^1608472612925
 
 #### Minimum Humming Distance
 if we want to find n errors then minimum humming distance is :: $d_min = n+1$
+^1608472613443
 
 -   Parity
 	-   Parity code 
