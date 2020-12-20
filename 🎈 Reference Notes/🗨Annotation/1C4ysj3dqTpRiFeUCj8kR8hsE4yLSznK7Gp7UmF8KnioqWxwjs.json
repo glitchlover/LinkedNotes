@@ -1,0 +1,1543 @@
+{
+  "annotationInfo": {},
+  "version": 2,
+  "attachments": {},
+  "docInfo": {
+    "progress": 0,
+    "pagemarkType": "SINGLE_COLUMN",
+    "properties": {},
+    "archived": false,
+    "flagged": false,
+    "tags": {
+      "DC": {
+        "id": "DC",
+        "label": "DC"
+      },
+      "/LectureSlides": {
+        "id": "/LectureSlides",
+        "label": "/LectureSlides"
+      }
+    },
+    "attachments": {
+      "12f5nFH3vo2bn7qa2knv": {
+        "fileRef": {
+          "backend": "image",
+          "name": "12f5nFH3vo2bn7qa2knv.png"
+        }
+      }
+    },
+    "nrPages": 27,
+    "fingerprint": "1C4ysj3dqTpRiFeUCj8kR8hsE4yLSznK7Gp7UmF8KnioqWxwjs",
+    "added": "2020-11-09T09:51:59.864Z",
+    "filename": "1C4ysj3dqT-5_Data Communication.pdf",
+    "uuid": "z2020-11-24T04:18:52.532Z+000011-312539836669",
+    "title": "5_Data Communication.pptx",
+    "hashcode": {
+      "enc": "base58check",
+      "alg": "keccak256",
+      "data": "1C4ysj3dqTpRiFeUCj8kR8hsE4yLSznK7Gp7UmF8KnioqWxwjs"
+    },
+    "bytes": 397171,
+    "lastUpdated": "2020-11-24T04:18:52.531Z",
+    "nrComments": 0,
+    "nrNotes": 0,
+    "nrFlashcards": 0,
+    "nrTextHighlights": 23,
+    "nrAreaHighlights": 1,
+    "nrAnnotations": 24
+  },
+  "pageMetas": {
+    "1": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "readingProgress": {},
+      "pageInfo": {
+        "num": 1
+      }
+    },
+    "2": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {
+        "12LhyRA2MC": {
+          "id": "12LhyRA2MC",
+          "guid": "12LhyRA2MC",
+          "created": "2020-11-10T05:53:12.834Z",
+          "lastUpdated": "2020-11-10T05:53:12.834Z",
+          "rects": {
+            "0": {
+              "left": 62,
+              "top": 64,
+              "right": 901,
+              "bottom": 130,
+              "width": 839,
+              "height": 65
+            }
+          },
+          "textSelections": {
+            "0": {
+              "text": "ANALOG TO DIGITAL CONVERSION"
+            }
+          },
+          "text": {
+            "TEXT": "ANALOG TO DIGITAL CONVERSION"
+          },
+          "images": {},
+          "notes": {},
+          "questions": {},
+          "flashcards": {},
+          "color": "#9900EF"
+        },
+        "12vbUeFQGh": {
+          "id": "12vbUeFQGh",
+          "guid": "12vbUeFQGh",
+          "created": "2020-11-23T08:39:59.626Z",
+          "lastUpdated": "2020-11-23T08:39:59.626Z",
+          "rects": {
+            "0": {
+              "left": 79,
+              "top": 161,
+              "right": 816,
+              "bottom": 203,
+              "width": 737,
+              "height": 41
+            },
+            "1": {
+              "left": 79,
+              "top": 206,
+              "right": 900,
+              "bottom": 248,
+              "width": 820,
+              "height": 41
+            },
+            "2": {
+              "left": 79,
+              "top": 251,
+              "right": 657,
+              "bottom": 292,
+              "width": 578,
+              "height": 41
+            }
+          },
+          "textSelections": {
+            "0": {
+              "text": "A digital signal is superior to an analog signal "
+            },
+            "1": {
+              "text": "because it is more robust to noise and can easily be "
+            },
+            "2": {
+              "text": "recovered, corrected and amplified. "
+            }
+          },
+          "text": {
+            "TEXT": "A digital signal is superior to an analog signal because it is more robust to noise and can easily be recovered, corrected and amplified."
+          },
+          "images": {},
+          "notes": {},
+          "questions": {},
+          "flashcards": {},
+          "color": "yellow"
+        },
+        "1n1o4CNmbf": {
+          "id": "1n1o4CNmbf",
+          "guid": "1n1o4CNmbf",
+          "created": "2020-11-23T08:40:08.312Z",
+          "lastUpdated": "2020-11-23T08:40:08.312Z",
+          "rects": {
+            "0": {
+              "left": 79,
+              "top": 504,
+              "right": 889,
+              "bottom": 546,
+              "width": 809,
+              "height": 41
+            },
+            "1": {
+              "left": 79,
+              "top": 549,
+              "right": 661,
+              "bottom": 591,
+              "width": 582,
+              "height": 41
+            }
+          },
+          "textSelections": {
+            "0": {
+              "text": "Pulse code modulation (PCM) is considered as the "
+            },
+            "1": {
+              "text": "most common conversion technique."
+            }
+          },
+          "text": {
+            "TEXT": "Pulse code modulation (PCM) is considered as the most common conversion technique."
+          },
+          "images": {},
+          "notes": {},
+          "questions": {},
+          "flashcards": {},
+          "color": "yellow"
+        }
+      },
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "readingProgress": {},
+      "pageInfo": {
+        "num": 2
+      }
+    },
+    "3": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {
+        "127jeAk2mp": {
+          "id": "127jeAk2mp",
+          "guid": "127jeAk2mp",
+          "created": "2020-11-10T05:53:18.522Z",
+          "lastUpdated": "2020-11-10T05:53:18.522Z",
+          "rects": {
+            "0": {
+              "left": 141,
+              "top": 33,
+              "right": 827,
+              "bottom": 95,
+              "width": 685,
+              "height": 62
+            }
+          },
+          "textSelections": {
+            "0": {
+              "text": "Pulse Code Modulation (PCM)"
+            }
+          },
+          "text": {
+            "TEXT": "Pulse Code Modulation (PCM)"
+          },
+          "images": {},
+          "notes": {},
+          "questions": {},
+          "flashcards": {},
+          "color": "#9900EF"
+        },
+        "124BZMRmUu": {
+          "id": "124BZMRmUu",
+          "guid": "124BZMRmUu",
+          "created": "2020-11-23T08:40:21.298Z",
+          "lastUpdated": "2020-11-23T08:40:21.298Z",
+          "rects": {
+            "0": {
+              "left": 57,
+              "top": 218,
+              "right": 200,
+              "bottom": 260,
+              "width": 143,
+              "height": 41
+            }
+          },
+          "textSelections": {
+            "0": {
+              "text": "Sampling"
+            }
+          },
+          "text": {
+            "TEXT": "Sampling"
+          },
+          "images": {},
+          "notes": {},
+          "questions": {},
+          "flashcards": {},
+          "color": "#9900EF"
+        },
+        "1Xvp9Uzbh5": {
+          "id": "1Xvp9Uzbh5",
+          "guid": "1Xvp9Uzbh5",
+          "created": "2020-11-23T08:40:23.845Z",
+          "lastUpdated": "2020-11-23T08:40:23.845Z",
+          "rects": {
+            "0": {
+              "left": 57,
+              "top": 472,
+              "right": 258,
+              "bottom": 514,
+              "width": 201,
+              "height": 41
+            }
+          },
+          "textSelections": {
+            "0": {
+              "text": "Quantization"
+            }
+          },
+          "text": {
+            "TEXT": "Quantization"
+          },
+          "images": {},
+          "notes": {},
+          "questions": {},
+          "flashcards": {},
+          "color": "#9900EF"
+        }
+      },
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "readingProgress": {},
+      "pageInfo": {
+        "num": 3
+      }
+    },
+    "4": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {
+        "1mDHjLthZk": {
+          "id": "1mDHjLthZk",
+          "guid": "1mDHjLthZk",
+          "created": "2020-11-23T08:40:26.741Z",
+          "lastUpdated": "2020-11-23T08:40:26.741Z",
+          "rects": {
+            "0": {
+              "left": 57,
+              "top": 113,
+              "right": 198,
+              "bottom": 155,
+              "width": 141,
+              "height": 41
+            }
+          },
+          "textSelections": {
+            "0": {
+              "text": "Encoding"
+            }
+          },
+          "text": {
+            "TEXT": "Encoding"
+          },
+          "images": {},
+          "notes": {},
+          "questions": {},
+          "flashcards": {},
+          "color": "#9900EF"
+        }
+      },
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "readingProgress": {},
+      "pageInfo": {
+        "num": 4
+      }
+    },
+    "5": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "readingProgress": {},
+      "pageInfo": {
+        "num": 5
+      }
+    },
+    "6": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {
+        "18Cicc6FLy": {
+          "id": "18Cicc6FLy",
+          "guid": "18Cicc6FLy",
+          "created": "2020-11-10T05:53:58.445Z",
+          "lastUpdated": "2020-11-10T05:54:17.436Z",
+          "rects": {
+            "0": {
+              "left": 28.474098927265892,
+              "top": 47.2796762589928,
+              "width": 40.54054054054054,
+              "height": 53.956834532374096
+            }
+          },
+          "notes": {},
+          "questions": {},
+          "flashcards": {},
+          "images": {},
+          "image": {
+            "id": "12f5nFH3vo2bn7qa2knv",
+            "type": "image/png",
+            "src": {
+              "backend": "image",
+              "name": "12f5nFH3vo2bn7qa2knv.png"
+            },
+            "width": 516,
+            "height": 256,
+            "rel": "screenshot"
+          },
+          "position": {
+            "x": 41,
+            "y": 106,
+            "width": 890,
+            "height": 442
+          }
+        }
+      },
+      "screenshots": {},
+      "thumbnails": {},
+      "readingProgress": {},
+      "pageInfo": {
+        "num": 6
+      }
+    },
+    "7": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {
+        "12XGsJZk6L": {
+          "id": "12XGsJZk6L",
+          "guid": "12XGsJZk6L",
+          "created": "2020-11-23T12:52:55.607Z",
+          "lastUpdated": "2020-11-23T12:52:55.607Z",
+          "rects": {
+            "0": {
+              "left": 342,
+              "top": 36,
+              "right": 618,
+              "bottom": 102,
+              "width": 276,
+              "height": 65
+            }
+          },
+          "textSelections": {
+            "0": {
+              "text": "SAMPLING "
+            }
+          },
+          "text": {
+            "TEXT": "SAMPLING"
+          },
+          "images": {},
+          "notes": {},
+          "questions": {},
+          "flashcards": {},
+          "color": "#9900EF"
+        },
+        "1RHhNMYkZx": {
+          "id": "1RHhNMYkZx",
+          "guid": "1RHhNMYkZx",
+          "created": "2020-11-23T12:53:05.603Z",
+          "lastUpdated": "2020-11-23T12:53:05.603Z",
+          "rects": {
+            "0": {
+              "left": 190,
+              "top": 113,
+              "right": 563,
+              "bottom": 149,
+              "width": 372,
+              "height": 35
+            }
+          },
+          "textSelections": {
+            "0": {
+              "text": "signal is sampled every  secs"
+            }
+          },
+          "text": {
+            "TEXT": "signal is sampled every  secs"
+          },
+          "images": {},
+          "notes": {},
+          "questions": {},
+          "flashcards": {},
+          "color": "yellow"
+        },
+        "125M6N3TXM": {
+          "id": "125M6N3TXM",
+          "guid": "125M6N3TXM",
+          "created": "2020-11-23T12:54:36.140Z",
+          "lastUpdated": "2020-11-23T12:54:36.140Z",
+          "rects": {
+            "0": {
+              "left": 350,
+              "top": 158,
+              "right": 582,
+              "bottom": 193,
+              "width": 232,
+              "height": 35
+            }
+          },
+          "textSelections": {
+            "0": {
+              "text": " sampling interval"
+            }
+          },
+          "text": {
+            "TEXT": "sampling interval"
+          },
+          "images": {},
+          "notes": {},
+          "questions": {},
+          "flashcards": {},
+          "color": "yellow"
+        },
+        "1Y6uAgAXcZ": {
+          "id": "1Y6uAgAXcZ",
+          "guid": "1Y6uAgAXcZ",
+          "created": "2020-11-23T12:54:49.171Z",
+          "lastUpdated": "2020-11-23T12:54:49.171Z",
+          "rects": {
+            "0": {
+              "left": 265,
+              "top": 203,
+              "right": 741,
+              "bottom": 238,
+              "width": 475,
+              "height": 35
+            }
+          },
+          "textSelections": {
+            "0": {
+              "text": "sampling rate or sampling frequency"
+            }
+          },
+          "text": {
+            "TEXT": "sampling rate or sampling frequency"
+          },
+          "images": {},
+          "notes": {},
+          "questions": {},
+          "flashcards": {},
+          "color": "yellow"
+        },
+        "12AHgoxjSh": {
+          "id": "12AHgoxjSh",
+          "guid": "12AHgoxjSh",
+          "created": "2020-11-23T13:05:04.017Z",
+          "lastUpdated": "2020-11-23T13:05:04.017Z",
+          "rects": {
+            "0": {
+              "left": 57,
+              "top": 292,
+              "right": 190,
+              "bottom": 328,
+              "width": 133,
+              "height": 35
+            },
+            "1": {
+              "left": 189,
+              "top": 292,
+              "right": 459,
+              "bottom": 328,
+              "width": 270,
+              "height": 35
+            },
+            "2": {
+              "left": 456,
+              "top": 292,
+              "right": 465,
+              "bottom": 328,
+              "width": 9,
+              "height": 35
+            },
+            "3": {
+              "left": 57,
+              "top": 337,
+              "right": 131,
+              "bottom": 373,
+              "width": 73,
+              "height": 35
+            },
+            "4": {
+              "left": 130,
+              "top": 337,
+              "right": 617,
+              "bottom": 373,
+              "width": 487,
+              "height": 35
+            },
+            "5": {
+              "left": 57,
+              "top": 382,
+              "right": 158,
+              "bottom": 417,
+              "width": 100,
+              "height": 35
+            },
+            "6": {
+              "left": 156,
+              "top": 382,
+              "right": 778,
+              "bottom": 417,
+              "width": 621,
+              "height": 35
+            },
+            "7": {
+              "left": 57,
+              "top": 427,
+              "right": 152,
+              "bottom": 462,
+              "width": 94,
+              "height": 35
+            },
+            "8": {
+              "left": 150,
+              "top": 427,
+              "right": 904,
+              "bottom": 462,
+              "width": 754,
+              "height": 35
+            },
+            "9": {
+              "left": 57,
+              "top": 465,
+              "right": 127,
+              "bottom": 501,
+              "width": 70,
+              "height": 35
+            }
+          },
+          "textSelections": {
+            "0": {
+              "text": "There are "
+            },
+            "1": {
+              "text": "3 sampling methods"
+            },
+            "2": {
+              "text": ":"
+            },
+            "3": {
+              "text": "Ideal "
+            },
+            "4": {
+              "text": "- an impulse at each sampling instant"
+            },
+            "5": {
+              "text": "Natural"
+            },
+            "6": {
+              "text": " - a pulse of short width with varying amplitude"
+            },
+            "7": {
+              "text": "Flattop"
+            },
+            "8": {
+              "text": " - sample and hold, like natural but with single amplitude "
+            },
+            "9": {
+              "text": "value"
+            }
+          },
+          "text": {
+            "TEXT": "There are 3 sampling methods : Ideal - an impulse at each sampling instant Natural - a pulse of short width with varying amplitude Flattop - sample and hold, like natural but with single amplitude value"
+          },
+          "images": {},
+          "notes": {},
+          "questions": {},
+          "flashcards": {},
+          "color": "yellow"
+        },
+        "12XJHdskoc": {
+          "id": "12XJHdskoc",
+          "guid": "12XJHdskoc",
+          "created": "2020-11-23T13:05:15.866Z",
+          "lastUpdated": "2020-11-23T13:05:15.866Z",
+          "rects": {
+            "0": {
+              "left": 57,
+              "top": 555,
+              "right": 433,
+              "bottom": 590,
+              "width": 376,
+              "height": 35
+            },
+            "1": {
+              "left": 428,
+              "top": 555,
+              "right": 895,
+              "bottom": 590,
+              "width": 466,
+              "height": 35
+            }
+          },
+          "textSelections": {
+            "0": {
+              "text": "The process is referred to as "
+            },
+            "1": {
+              "text": "pulse amplitude modulation (PAM "
+            }
+          },
+          "text": {
+            "TEXT": "The process is referred to as pulse amplitude modulation (PAM"
+          },
+          "images": {},
+          "notes": {},
+          "questions": {},
+          "flashcards": {},
+          "color": "yellow"
+        }
+      },
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "readingProgress": {},
+      "pageInfo": {
+        "num": 7
+      }
+    },
+    "8": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "readingProgress": {},
+      "pageInfo": {
+        "num": 8
+      }
+    },
+    "9": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {
+        "1Gd8YLBn7a": {
+          "id": "1Gd8YLBn7a",
+          "guid": "1Gd8YLBn7a",
+          "created": "2020-11-23T14:23:56.657Z",
+          "lastUpdated": "2020-11-23T14:23:56.657Z",
+          "rects": {
+            "0": {
+              "left": 93,
+              "top": 138,
+              "right": 397,
+              "bottom": 185,
+              "width": 304,
+              "height": 47
+            },
+            "1": {
+              "left": 394,
+              "top": 138,
+              "right": 695,
+              "bottom": 185,
+              "width": 300,
+              "height": 47
+            },
+            "2": {
+              "left": 693,
+              "top": 138,
+              "right": 774,
+              "bottom": 185,
+              "width": 80,
+              "height": 47
+            },
+            "3": {
+              "left": 93,
+              "top": 189,
+              "right": 840,
+              "bottom": 237,
+              "width": 746,
+              "height": 47
+            },
+            "4": {
+              "left": 93,
+              "top": 240,
+              "right": 413,
+              "bottom": 288,
+              "width": 319,
+              "height": 47
+            }
+          },
+          "textSelections": {
+            "0": {
+              "text": "According to the "
+            },
+            "1": {
+              "text": "Nyquist theorem"
+            },
+            "2": {
+              "text": ", the"
+            },
+            "3": {
+              "text": "sampling rate must be at least 2 times the"
+            },
+            "4": {
+              "text": "highest frequency"
+            }
+          },
+          "text": {
+            "TEXT": "According to the Nyquist theorem , the sampling rate must be at least 2 times the highest frequency"
+          },
+          "images": {},
+          "notes": {},
+          "questions": {},
+          "flashcards": {},
+          "color": "yellow"
+        }
+      },
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "readingProgress": {},
+      "pageInfo": {
+        "num": 9
+      }
+    },
+    "10": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "readingProgress": {},
+      "pageInfo": {
+        "num": 10
+      }
+    },
+    "11": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {
+        "1WEGJ2qnSH": {
+          "id": "1WEGJ2qnSH",
+          "guid": "1WEGJ2qnSH",
+          "created": "2020-11-23T14:24:47.697Z",
+          "lastUpdated": "2020-11-23T14:24:47.697Z",
+          "rects": {
+            "0": {
+              "left": 489,
+              "top": 484,
+              "right": 890,
+              "bottom": 519,
+              "width": 400,
+              "height": 35
+            },
+            "1": {
+              "left": 489,
+              "top": 523,
+              "right": 906,
+              "bottom": 558,
+              "width": 417,
+              "height": 35
+            },
+            "2": {
+              "left": 489,
+              "top": 561,
+              "right": 841,
+              "bottom": 596,
+              "width": 352,
+              "height": 35
+            },
+            "3": {
+              "left": 489,
+              "top": 599,
+              "right": 916,
+              "bottom": 635,
+              "width": 427,
+              "height": 35
+            },
+            "4": {
+              "left": 489,
+              "top": 638,
+              "right": 759,
+              "bottom": 673,
+              "width": 270,
+              "height": 35
+            }
+          },
+          "textSelections": {
+            "0": {
+              "text": "Telephone companies digitize "
+            },
+            "1": {
+              "text": "voice by assuming a maximum "
+            },
+            "2": {
+              "text": "frequency of 4000 Hz. The "
+            },
+            "3": {
+              "text": "sampling rate therefore is 8000 "
+            },
+            "4": {
+              "text": "samples per second."
+            }
+          },
+          "text": {
+            "TEXT": "Telephone companies digitize voice by assuming a maximum frequency of 4000 Hz. The sampling rate therefore is 8000 samples per second."
+          },
+          "images": {},
+          "notes": {},
+          "questions": {},
+          "flashcards": {},
+          "color": "yellow"
+        }
+      },
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "readingProgress": {},
+      "pageInfo": {
+        "num": 11
+      }
+    },
+    "12": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {
+        "1qTqHmyvqs": {
+          "id": "1qTqHmyvqs",
+          "guid": "1qTqHmyvqs",
+          "created": "2020-11-23T14:37:25.305Z",
+          "lastUpdated": "2020-11-23T14:37:25.305Z",
+          "rects": {
+            "0": {
+              "left": 57,
+              "top": 179,
+              "right": 121,
+              "bottom": 221,
+              "width": 64,
+              "height": 41
+            },
+            "1": {
+              "left": 121,
+              "top": 179,
+              "right": 907,
+              "bottom": 221,
+              "width": 786,
+              "height": 41
+            },
+            "2": {
+              "left": 57,
+              "top": 224,
+              "right": 807,
+              "bottom": 266,
+              "width": 749,
+              "height": 41
+            },
+            "3": {
+              "left": 57,
+              "top": 269,
+              "right": 163,
+              "bottom": 311,
+              "width": 105,
+              "height": 41
+            }
+          },
+          "textSelections": {
+            "0": {
+              "text": "Q1: "
+            },
+            "1": {
+              "text": "A complex bandpass signal has a bandwidth of 200 "
+            },
+            "2": {
+              "text": "kHz. What is the minimum sampling rate for this "
+            },
+            "3": {
+              "text": "signal?"
+            }
+          },
+          "text": {
+            "TEXT": "Q1: A complex bandpass signal has a bandwidth of 200 kHz. What is the minimum sampling rate for this signal?"
+          },
+          "images": {},
+          "notes": {},
+          "questions": {},
+          "flashcards": {},
+          "color": "yellow"
+        }
+      },
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "readingProgress": {},
+      "pageInfo": {
+        "num": 12
+      }
+    },
+    "13": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "readingProgress": {},
+      "pageInfo": {
+        "num": 13
+      }
+    },
+    "14": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {
+        "16Ej4pYJw8": {
+          "id": "16Ej4pYJw8",
+          "guid": "16Ej4pYJw8",
+          "created": "2020-11-23T15:23:00.771Z",
+          "lastUpdated": "2020-11-23T15:23:00.771Z",
+          "rects": {
+            "0": {
+              "left": 110,
+              "top": 155,
+              "right": 938,
+              "bottom": 196,
+              "width": 827,
+              "height": 40
+            },
+            "1": {
+              "left": 43,
+              "top": 200,
+              "right": 916,
+              "bottom": 240,
+              "width": 873,
+              "height": 40
+            }
+          },
+          "textSelections": {
+            "0": {
+              "text": "A signal, is given. For successful reconstruction of the "
+            },
+            "1": {
+              "text": "signal, what should be the minimum sampling frequency?"
+            }
+          },
+          "text": {
+            "TEXT": "A signal, is given. For successful reconstruction of the signal, what should be the minimum sampling frequency?"
+          },
+          "images": {},
+          "notes": {},
+          "questions": {},
+          "flashcards": {},
+          "color": "yellow"
+        }
+      },
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "readingProgress": {},
+      "pageInfo": {
+        "num": 14
+      }
+    },
+    "15": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {
+        "1UhVdFcW8e": {
+          "id": "1UhVdFcW8e",
+          "guid": "1UhVdFcW8e",
+          "created": "2020-11-23T15:24:06.101Z",
+          "lastUpdated": "2020-11-23T15:24:06.101Z",
+          "rects": {
+            "0": {
+              "left": 117,
+              "top": 139,
+              "right": 808,
+              "bottom": 187,
+              "width": 690,
+              "height": 47
+            },
+            "1": {
+              "left": 117,
+              "top": 185,
+              "right": 866,
+              "bottom": 233,
+              "width": 748,
+              "height": 47
+            },
+            "2": {
+              "left": 117,
+              "top": 232,
+              "right": 608,
+              "bottom": 279,
+              "width": 490,
+              "height": 47
+            }
+          },
+          "textSelections": {
+            "0": {
+              "text": "Sampling results in a series of pulses of "
+            },
+            "1": {
+              "text": "varying amplitude values ranging between "
+            },
+            "2": {
+              "text": "two limits: a min and a max."
+            }
+          },
+          "text": {
+            "TEXT": "Sampling results in a series of pulses of varying amplitude values ranging between two limits: a min and a max."
+          },
+          "images": {},
+          "notes": {},
+          "questions": {},
+          "flashcards": {},
+          "color": "yellow"
+        },
+        "1Y94Fmk5pE": {
+          "id": "1Y94Fmk5pE",
+          "guid": "1Y94Fmk5pE",
+          "created": "2020-11-23T15:24:18.888Z",
+          "lastUpdated": "2020-11-23T15:24:18.888Z",
+          "rects": {
+            "0": {
+              "left": 117,
+              "top": 341,
+              "right": 863,
+              "bottom": 388,
+              "width": 745,
+              "height": 47
+            },
+            "1": {
+              "left": 117,
+              "top": 387,
+              "right": 369,
+              "bottom": 434,
+              "width": 251,
+              "height": 47
+            }
+          },
+          "textSelections": {
+            "0": {
+              "text": "The amplitude values are infinite between "
+            },
+            "1": {
+              "text": "the two limits."
+            }
+          },
+          "text": {
+            "TEXT": "The amplitude values are infinite between the two limits."
+          },
+          "images": {},
+          "notes": {},
+          "questions": {},
+          "flashcards": {},
+          "color": "yellow"
+        },
+        "1megVzyTMS": {
+          "id": "1megVzyTMS",
+          "guid": "1megVzyTMS",
+          "created": "2020-11-23T15:24:25.532Z",
+          "lastUpdated": "2020-11-23T15:24:25.532Z",
+          "rects": {
+            "0": {
+              "left": 117,
+              "top": 496,
+              "right": 485,
+              "bottom": 543,
+              "width": 367,
+              "height": 47
+            },
+            "1": {
+              "left": 482,
+              "top": 496,
+              "right": 603,
+              "bottom": 543,
+              "width": 121,
+              "height": 47
+            },
+            "2": {
+              "left": 602,
+              "top": 496,
+              "right": 800,
+              "bottom": 543,
+              "width": 197,
+              "height": 47
+            },
+            "3": {
+              "left": 117,
+              "top": 542,
+              "right": 816,
+              "bottom": 589,
+              "width": 699,
+              "height": 47
+            }
+          },
+          "textSelections": {
+            "0": {
+              "text": "We need to map the "
+            },
+            "1": {
+              "text": "infinite"
+            },
+            "2": {
+              "text": " amplitude "
+            },
+            "3": {
+              "text": "values onto a finite set of known values."
+            }
+          },
+          "text": {
+            "TEXT": "We need to map the infinite amplitude values onto a finite set of known values."
+          },
+          "images": {},
+          "notes": {},
+          "questions": {},
+          "flashcards": {},
+          "color": "yellow"
+        }
+      },
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "readingProgress": {},
+      "pageInfo": {
+        "num": 15
+      }
+    },
+    "16": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "readingProgress": {},
+      "pageInfo": {
+        "num": 16
+      }
+    },
+    "17": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "readingProgress": {},
+      "pageInfo": {
+        "num": 17
+      }
+    },
+    "18": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "readingProgress": {},
+      "pageInfo": {
+        "num": 18
+      }
+    },
+    "19": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "readingProgress": {},
+      "pageInfo": {
+        "num": 19
+      }
+    },
+    "20": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "readingProgress": {},
+      "pageInfo": {
+        "num": 20
+      }
+    },
+    "21": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "readingProgress": {},
+      "pageInfo": {
+        "num": 21
+      }
+    },
+    "22": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "readingProgress": {},
+      "pageInfo": {
+        "num": 22
+      }
+    },
+    "23": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "readingProgress": {},
+      "pageInfo": {
+        "num": 23
+      }
+    },
+    "24": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "readingProgress": {},
+      "pageInfo": {
+        "num": 24
+      }
+    },
+    "25": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "readingProgress": {},
+      "pageInfo": {
+        "num": 25
+      }
+    },
+    "26": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {
+        "12BfTdsLis": {
+          "id": "12BfTdsLis",
+          "guid": "12BfTdsLis",
+          "created": "2020-11-24T04:18:27.324Z",
+          "lastUpdated": "2020-11-24T04:18:27.324Z",
+          "rects": {
+            "0": {
+              "left": 314,
+              "top": 80,
+              "right": 648,
+              "bottom": 145,
+              "width": 334,
+              "height": 65
+            }
+          },
+          "textSelections": {
+            "0": {
+              "text": "PCM Decoder"
+            }
+          },
+          "text": {
+            "TEXT": "PCM Decoder"
+          },
+          "images": {},
+          "notes": {},
+          "questions": {},
+          "flashcards": {},
+          "color": "#9900EF"
+        },
+        "1ay4nHj1pv": {
+          "id": "1ay4nHj1pv",
+          "guid": "1ay4nHj1pv",
+          "created": "2020-11-24T04:18:39.102Z",
+          "lastUpdated": "2020-11-24T04:18:39.102Z",
+          "rects": {
+            "0": {
+              "left": 79,
+              "top": 181,
+              "right": 903,
+              "bottom": 224,
+              "width": 823,
+              "height": 43
+            },
+            "1": {
+              "left": 79,
+              "top": 226,
+              "right": 485,
+              "bottom": 269,
+              "width": 405,
+              "height": 43
+            }
+          },
+          "textSelections": {
+            "0": {
+              "text": "To recover an analog signal from a digitized signal we "
+            },
+            "1": {
+              "text": "follow the following steps:"
+            }
+          },
+          "text": {
+            "TEXT": "To recover an analog signal from a digitized signal we follow the following steps:"
+          },
+          "images": {},
+          "notes": {},
+          "questions": {},
+          "flashcards": {},
+          "color": "yellow"
+        },
+        "1gEmbBh9Sp": {
+          "id": "1gEmbBh9Sp",
+          "guid": "1gEmbBh9Sp",
+          "created": "2020-11-24T04:18:51.910Z",
+          "lastUpdated": "2020-11-24T04:18:51.910Z",
+          "rects": {
+            "0": {
+              "left": 91,
+              "top": 270,
+              "right": 112,
+              "bottom": 313,
+              "width": 21,
+              "height": 43
+            },
+            "1": {
+              "left": 121,
+              "top": 278,
+              "right": 932,
+              "bottom": 321,
+              "width": 811,
+              "height": 43
+            },
+            "2": {
+              "left": 121,
+              "top": 323,
+              "right": 668,
+              "bottom": 366,
+              "width": 546,
+              "height": 43
+            }
+          },
+          "textSelections": {
+            "0": {
+              "text": "–"
+            },
+            "1": {
+              "text": "We use a hold circuit that holds the amplitude value "
+            },
+            "2": {
+              "text": "of a pulse till the next pulse arrives."
+            }
+          },
+          "text": {
+            "TEXT": "– We use a hold circuit that holds the amplitude value of a pulse till the next pulse arrives."
+          },
+          "images": {},
+          "notes": {},
+          "questions": {},
+          "flashcards": {},
+          "color": "yellow"
+        }
+      },
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "readingProgress": {},
+      "pageInfo": {
+        "num": 26
+      }
+    },
+    "27": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "readingProgress": {},
+      "pageInfo": {
+        "num": 27
+      }
+    }
+  }
+}
