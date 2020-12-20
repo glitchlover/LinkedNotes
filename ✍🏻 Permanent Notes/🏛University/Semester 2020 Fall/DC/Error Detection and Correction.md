@@ -22,7 +22,7 @@ cards-deck: "Data Communication :: ⚠ Error Detection and Correction"
 -   How to detect two error?
 -   How to generate codewords
     -   Parity
-        -   Parity code
+        -   Parity code 
         -   Not good
 -   How to correct the massage
 -   What happened to odd and even errors
