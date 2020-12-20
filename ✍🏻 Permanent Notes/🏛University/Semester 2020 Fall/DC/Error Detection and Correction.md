@@ -13,7 +13,10 @@ status:
 date updated: '2020-12-20T15:40:27+06:00'
 cards-deck: "Data Communication :: ⚠ Error Detection and Correction"
 ---
-- Error Det
+- Error Detection and Correction
+	- There are two types of error
+		- Single bit error
+		- Burst error
 -   Hamming Code
 	-   
 -   How to detect two error?
