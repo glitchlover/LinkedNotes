@@ -54,6 +54,7 @@ Def::The Hamming distance between two codewords is simply the number of bit posi
 #### How to find the Humming distance
 We can find humming distance using the gate . . . ::XOR
 ^1608472612925
+
 ##### Example
 What is the humming distance d(000, 011)? #card 
 - 2
@@ -67,9 +68,6 @@ if we want to find n errors then minimum humming distance is :: $d_min = n+1$
 #### How the codewords are generated?
 - **Using parity code** ::codewords are generated such a way that every time parity checker checks the datawords gets true
 ^1608475246999
-
-
-
 
 ###  Parity 
 #### Parity Checker
@@ -95,8 +93,5 @@ In odd parity checker if an *error bit (E) is equal to ‘1’, then it indicate
 >Error Bit (E) =1, no error
 >Error Bit (E) =0, error occurs
 ^1608475248937
+### Linear Block Coding
 
-
--   How to correct the massage
--   What happened to odd and even errors
--   Two Dimension parity checker
