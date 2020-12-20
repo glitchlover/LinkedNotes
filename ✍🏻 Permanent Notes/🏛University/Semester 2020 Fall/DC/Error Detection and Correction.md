@@ -38,7 +38,7 @@ here is how it is done #card
 ![[Pasted image 20201220174923.png]]
 
 ### Hamming Distance
-   
+       
 -   How to detect two error?
 -   How to generate codewords
     -   Parity
