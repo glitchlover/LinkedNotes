@@ -4,9 +4,38 @@
     "type": "split",
     "children": [
       {
+        "id": "fd81536132b91d99",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/DC/Transmission Media.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "16b767ebc50533fa",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/DC/Transmission Media.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
         "id": "abf37cdf6d6fcc17",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "graph",
           "state": {}
@@ -15,6 +44,7 @@
       {
         "id": "41368180ee4301df",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -95,7 +125,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/DC/Error Detection and Correction.md",
+                "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/DC/Transmission Media.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -124,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/DC/Error Detection and Correction.md",
+                "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/DC/Transmission Media.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/DC/Error Detection and Correction.md"
+                "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/DC/Transmission Media.md"
               }
             }
           }
@@ -159,9 +189,9 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/DC/Transmission Media.md",
     "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/DC/Error Detection and Correction.md",
     "_AAA/555 University.md",
-    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/DC/Transmission Media.md",
     "_AAA/999.1 Todo.md",
     "_AAA/888 GitHub.md",
     "_AAA/999.2 🔴Edit Later.md",
