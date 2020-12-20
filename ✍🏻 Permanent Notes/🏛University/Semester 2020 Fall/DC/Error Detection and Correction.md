@@ -1,8 +1,4 @@
 ---
-cards-deck: Default
----
-
----
 ankified?: 'no'
 lecture: null
 subject:
