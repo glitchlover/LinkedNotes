@@ -63,9 +63,14 @@ We can find humming distance using the gate . . . ::XOR
 if we want to find n errors then minimum humming distance is :: $d_min = n+1$
 ^1608472613443
 
--   Parity
-	-   Parity code 
-	-   Not good
+###  Parity 
+#### Parity Checker
+What is parity check? #card 
+-  Circuit that gives output ‘1’ if there is some error found and gives output ‘0’ if no error is found in the message including the parity bit.
+
+
+##### Even Parity Bit
+def::
 -   How to correct the massage
 -   What happened to odd and even errors
 -   Two Dimension parity checker
