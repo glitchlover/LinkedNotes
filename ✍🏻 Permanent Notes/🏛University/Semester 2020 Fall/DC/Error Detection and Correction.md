@@ -62,6 +62,9 @@ We can find humming distance using the gate . . . ::XOR
 #### Minimum Humming Distance
 if we want to find n errors then minimum humming distance is :: $d_min = n+1$
 ^1608472613443
+#### How the codewords are generated?
+codewords are generated such a way that 
+
 
 ###  Parity 
 #### Parity Checker
@@ -69,8 +72,21 @@ What is parity check? #card
 -  Circuit that gives output ‘1’ if there is some error found and gives output ‘0’ if no error is found in the message including the parity bit.
 
 
-##### Even Parity Bit
-def::
+##### Even Parity Checker
+def::In a circuit if even number 1 is found on input then that is called Even parity checker and its true 
+
+In even parity checker if the error bit (E) *is equal to ‘1’, then we have an error.* If error bit E=0 then indicates there is no error. What does this means? #card
+>Error Bit (E) =1, error occurs
+>Error Bit (E) =0, no error
+
+##### Odd Parity Checker
+def::In a circuit if odd number 1 is found on input then that is called Odd parity checker and its true 
+
+In odd parity checker if an *error bit (E) is equal to ‘1’, then it indicates there is no error.* If an error bit E=0 then indicates there is an error. What does this means? #card 
+>Error Bit (E) =1, no error
+>Error Bit (E) =0, error occurs
+
+
 -   How to correct the massage
 -   What happened to odd and even errors
 -   Two Dimension parity checker
