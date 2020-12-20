@@ -4,43 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "39447d275bebdbc2",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/DC/Error Detection and Correction.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
-          }
-        }
-      },
-      {
-        "id": "dbb6addff7621054",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/DC/Error Detection and Correction.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
-          }
-        }
-      },
-      {
         "id": "abf37cdf6d6fcc17",
         "type": "leaf",
         "active": true,
         "state": {
+          "type": "graph",
+          "state": {}
+        }
+      },
+      {
+        "id": "41368180ee4301df",
+        "type": "leaf",
+        "state": {
           "type": "markdown",
           "state": {
-            "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/DC/Error Detection and Correction.md",
+            "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/DC/Transmission Media.md",
             "mode": "source"
           }
         }
@@ -91,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "fd11490cc9c741e0",
@@ -184,13 +161,13 @@
   "lastOpenFiles": [
     "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/DC/Error Detection and Correction.md",
     "_AAA/555 University.md",
+    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/DC/Transmission Media.md",
     "_AAA/999.1 Todo.md",
     "_AAA/888 GitHub.md",
     "_AAA/999.2 🔴Edit Later.md",
     "_AAA/Untitled.md",
     "_AAA/000 Index.md",
     "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/TC/CFG ( Context Free Grammer ).md",
-    "Assignment.md",
-    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/TC/Turing Machine.md"
+    "Assignment.md"
   ]
 }
