@@ -91,7 +91,8 @@ def::In a circuit if odd number 1 is found on input then that is called Odd pari
 
 In odd parity checker if an *error bit (E) is equal to ‘1’, then it indicates there is no error.* If an error bit E=0 then indicates there is an error. What does this means? #card 
 >Error Bit (E) =1, no error
->Error Bit (E) =0, error occurs
+>Error Bit (E) =0, error occurs       
 ^1608475248937
 ### Linear Block Coding
+def::A linear block code is a code in which exclusive or (addition modulo-2) of two valid codewords creates another valid codewords 
 
