@@ -41,7 +41,7 @@
           "type": "markdown",
           "state": {
             "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/TC/Pushdown Automata.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -91,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 369.5
+    "width": 369.5,
+    "collapsed": true
   },
   "right": {
     "id": "fd11490cc9c741e0",
@@ -182,6 +183,7 @@
   },
   "lastOpenFiles": [
     "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/TC/Pushdown Automata.md",
+    "The For Types of Grammer.md",
     "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/DC/Switching.md",
     "Assignment.md",
     "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/TC/CFG ( Context Free Grammer ).md",
@@ -189,7 +191,6 @@
     "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/DC/Error Detection and Correction.md",
     "Switching.md",
     "Template/University notes.md",
-    "_AAA/555 University.md",
-    "_AAA/999.1 Todo.md"
+    "_AAA/555 University.md"
   ]
 }
