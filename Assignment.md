@@ -7,6 +7,8 @@ date updated: '2020-12-20T11:42:42+06:00'
 ## Todos
 
 -   [ ] look at the details
+-   [ ] do more research on introduction
+	-   [ ] how devastating Covid is to the macroeconomy
     -   [x] find the impact of different country
         -   [ ] America
         -   [ ] Bangladesh
