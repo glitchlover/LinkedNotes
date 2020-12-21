@@ -7,14 +7,14 @@ date updated: '2020-12-20T11:42:42+06:00'
 ## Todos
 
 -   [ ] look at the details
-    -   [ ] find the impact of different country
+    -   [x] find the impact of different country
         -   [ ] America
         -   [ ] Bangladesh
         -   [ ] India
         -   [ ] Asia
         -   [ ] Africa
     -   [ ] find the policy and the impact of the policy
--   [ ] search
+-   [ ] Insert Bibliography
 
 # Introduction
 
