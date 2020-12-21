@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "e6f9beea9075e62e",
+        "id": "138cd31223282116",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/DC/Error Detection and Correction.md",
+            "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/TC/CFG ( Context Free Grammer ).md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -19,12 +19,12 @@
         }
       },
       {
-        "id": "e20e643215cec701",
+        "id": "942714851daba872",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/DC/Error Detection and Correction.md",
+            "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/TC/CFG ( Context Free Grammer ).md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -40,7 +40,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/DC/Error Detection and Correction.md",
+            "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/TC/CFG ( Context Free Grammer ).md",
             "mode": "source"
           }
         }
@@ -87,13 +87,11 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 1209.5,
-    "collapsed": true
+    "width": 369.5
   },
   "right": {
     "id": "fd11490cc9c741e0",
@@ -119,7 +117,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/DC/Error Detection and Correction.md",
+                "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/TC/CFG ( Context Free Grammer ).md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -148,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/DC/Error Detection and Correction.md",
+                "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/TC/CFG ( Context Free Grammer ).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/DC/Error Detection and Correction.md"
+                "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/TC/CFG ( Context Free Grammer ).md"
               }
             }
           }
@@ -183,15 +181,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/TC/CFG ( Context Free Grammer ).md",
+    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/DC/Transmission Media.md",
     "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/DC/Error Detection and Correction.md",
     "Switching.md",
-    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/DC/Transmission Media.md",
     "Template/University notes.md",
     "_AAA/555 University.md",
     "_AAA/999.1 Todo.md",
     "_AAA/888 GitHub.md",
     "_AAA/999.2 🔴Edit Later.md",
-    "_AAA/Untitled.md",
-    "_AAA/000 Index.md"
+    "_AAA/Untitled.md"
   ]
 }
