@@ -93,6 +93,12 @@ In odd parity checker if an *error bit (E) is equal to ‘1’, then it indicate
 >Error Bit (E) =1, no error
 >Error Bit (E) =0, error occurs       
 ^1608475248937
+
+#### Encoder and decoder for simple parity check code
+
+![[Pasted image 20201221102235.png]]
+
+
 ### Linear Block Coding
 def::A linear block code is a code in which exclusive or (addition modulo-2) of two valid codewords creates another valid codewords 
 
