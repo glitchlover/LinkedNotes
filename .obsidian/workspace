@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "12e2f50279560682",
+        "id": "ee983025c8bf2a92",
         "type": "leaf",
         "state": {
           "type": "backlink",
@@ -19,7 +19,7 @@
         }
       },
       {
-        "id": "7b4b5fb3f940639f",
+        "id": "5a6b21f3af654135",
         "type": "leaf",
         "state": {
           "type": "backlink",
@@ -174,12 +174,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 427.5,
-    "collapsed": true
+    "width": 427.5
   },
   "lastOpenFiles": [
     "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/DC/Error Detection and Correction.md",
