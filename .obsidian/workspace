@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "ee983025c8bf2a92",
+        "id": "e6f9beea9075e62e",
         "type": "leaf",
         "state": {
           "type": "backlink",
@@ -19,7 +19,7 @@
         }
       },
       {
-        "id": "5a6b21f3af654135",
+        "id": "e20e643215cec701",
         "type": "leaf",
         "state": {
           "type": "backlink",
@@ -87,11 +87,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 1209.5,
     "collapsed": true
   },
   "right": {
@@ -174,12 +175,11 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 722.5,
+    "width": 50331393,
     "collapsed": true
   },
   "lastOpenFiles": [
