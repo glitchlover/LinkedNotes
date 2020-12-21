@@ -6,7 +6,7 @@ subject:
   - Digital Communication
 links:
   - Linear Block Coding
-tag: null
+tag: ["Computer Science"]
 date: 'Thursday 17th, Dec 2020 (352nd)'
 status:
   - ongoing
@@ -71,6 +71,7 @@ if we want to find n errors then minimum humming distance is :: $d_min = n+1$
 
 ###  Parity 
 A simple parity check code can detect which kind of error?::odd number
+^1608525550079
 
 #### Parity Checker
 What is parity check? #card 
@@ -99,8 +100,10 @@ In odd parity checker if an *error bit (E) is equal to ‘1’, then it indicate
 #### Encoder and decoder for simple parity check code
 here is how it is done #card
 ![[Pasted image 20201221102235.png]]
+^1608525550587
 
 
 ### Linear Block Coding
 def::A linear block code is a code in which exclusive or (addition modulo-2) of two valid codewords creates another valid codewords 
+^1608525551057
 
