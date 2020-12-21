@@ -95,7 +95,7 @@ In odd parity checker if an *error bit (E) is equal to ‘1’, then it indicate
 ^1608475248937
 
 #### Encoder and decoder for simple parity check code
-
+here is how it is done #card
 ![[Pasted image 20201221102235.png]]
 
 
