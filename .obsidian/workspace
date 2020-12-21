@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "138cd31223282116",
+        "id": "a5e11025350ec6c1",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Assignment.md",
+            "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/TC/Pushdown Automata.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -19,12 +19,12 @@
         }
       },
       {
-        "id": "942714851daba872",
+        "id": "96b01c5b79b99993",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Assignment.md",
+            "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/TC/Pushdown Automata.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -40,8 +40,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Assignment.md",
-            "mode": "source"
+            "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/TC/Pushdown Automata.md",
+            "mode": "preview"
           }
         }
       }
@@ -91,8 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 369.5,
-    "collapsed": true
+    "width": 369.5
   },
   "right": {
     "id": "fd11490cc9c741e0",
@@ -118,7 +117,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Assignment.md",
+                "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/TC/Pushdown Automata.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -147,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assignment.md",
+                "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/TC/Pushdown Automata.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assignment.md"
+                "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/TC/Pushdown Automata.md"
               }
             }
           }
@@ -182,6 +181,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/TC/Pushdown Automata.md",
+    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/DC/Switching.md",
     "Assignment.md",
     "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/TC/CFG ( Context Free Grammer ).md",
     "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/DC/Transmission Media.md",
@@ -189,8 +190,6 @@
     "Switching.md",
     "Template/University notes.md",
     "_AAA/555 University.md",
-    "_AAA/999.1 Todo.md",
-    "_AAA/888 GitHub.md",
-    "_AAA/999.2 🔴Edit Later.md"
+    "_AAA/999.1 Todo.md"
   ]
 }

@@ -31,9 +31,31 @@ date updated: '2020-12-20T11:42:42+06:00'
 
 # Effect on the GDP
 
-> This study simulates the potential impact of COVID-19 on gross domestic product and trade, using a standard global computable general equilibrium model. It models the shock as underutilization of labor and capital, an increase in international trade costs, a drop in travel services, and a redirection of demand away from activities that require proximity between people. A baseline global pandemic scenario sees gross domestic product fall by 2 percent below the benchmark for the world, 2.5 percent for developing countries, and 1.8 percent for industrial countries. The declines are nearly 4 percent below the benchmark for the world, in an amplified pandemic scenario in which containment is assumed to take longer and which now seems more likely. The biggest negative shock is recorded in the output of domestic services affected by the pandemic, as well as in traded tourist services. Since the model does not capture fully the social isolation induced independent contraction in demand and the decline in investor confidence, the eventual economic impact may be different. This exercise is illustrative, because it is still too early to make an informed assessment of the full impact of the pandemic. But it does convey the likely extent of impending global economic pain, especially for developing countries and their potential need for assistance.
+> This study simulates the potential impact of COVID-19 on gross domestic product and trade, using a standard global computable general equilibrium model. It models the shock as underutilization of labor and capital, an increase in international trade costs, a drop in travel services, and a redirection of demand away from activities that require proximity between people. ==A baseline global pandemic scenario sees gross domestic product fall by 2 percent below the benchmark for the world, 2.5 percent for developing countries, and 1.8 percent for industrial countries. The declines are nearly 4 percent below the benchmark for the world, in an amplified pandemic scenario in which containment is assumed to take longer and which now seems more likely.== The biggest negative shock is recorded in the output of domestic services affected by the pandemic, as well as in traded tourist services. Since the model does not capture fully the social isolation induced independent contraction in demand and the decline in investor confidence, the eventual economic impact may be different. This exercise is illustrative, because it is still too early to make an informed assessment of the full impact of the pandemic. But it does convey the likely extent of impending global economic pain, especially for developing countries and their potential need for assistance.
 > [The Potential Impact of COVID-19 on GDP and Trade : A Preliminary Assessment](https://openknowledge.worldbank.org/handle/10986/33605)
 
+>_What we have learned from the first COVID-19 wave? Insights into how different European countries reacted to the pandemic and how the diverse coping strategies affected their respective economies in the first half of this year. Interesting lessons to be learnt as we enter into a prolonged period of the pandemic._
+>The world has come to understand that the COVID-19 pandemic is wreaking havoc on the global economy and will continue to do so for some time. The table below shows the annual growth rate of Switzerland’s GDP, which shrank by a record 8.3% year-on-year in the second quarter of 2020.
+>**_Swiss GDP: Annual Growth Rate_**![GDP1](https://hospitalityinsights.ehl.edu/hs-fs/hubfs/Blog-EHL-Insights/Images-EHL-Insights/GDP1.png?width=768&name=GDP1.png)
+>This article aims to share **five interesting findings** that were discovered after several indicators of **34 European countries** were analyzed. The data were considered between January and August 2020\. The indicators were the following by country:
+*   Degree of stringency of the lockdown measures
+*   GDP annual growth rate
+*   Unemployment rate
+*   General level of trust in government
+*   Degree of individualism vs collectivism beliefs of the population
+*   Degree of severity of the health situation caused by the virus
+*   Healthcare system capacity
+
+>The graph below compares the severity of the lockdown measures according to several European countries. We see that Sweden was constantly less restrictive on the lockdown measures. In parallel, we observe that Italy was one of the first European countries affected by the virus which explains the severity of the lockdown measures. As far as Switzerland is concerned, one can claim that, in general, the lockdown was less severe compared to the other European countries. Indeed, the Swiss strategy consisted in relying on the population to follow the government’s health recommendations and for citizens to exhibit personal responsibility.
+
+>_**COVID-19: Government response stringency index**_![GDP2](https://hospitalityinsights.ehl.edu/hs-fs/hubfs/Blog-EHL-Insights/Images-EHL-Insights/GDP2.png?width=688&name=GDP2.png)
+
+>_**Our model and the relationships between the different variables**_
+> ![GDP3](https://hospitalityinsights.ehl.edu/hs-fs/hubfs/Blog-EHL-Insights/Images-EHL-Insights/GDP3.png?width=696&name=GDP3.png)
+> [source](https://hospitalityinsights.ehl.edu/stringency-covid-lockdown-gdp)
+
+>Under the assumption that the pandemic and required containment peaks in the second quarter for most countries in the world, and recedes in the second half of this year, in the April [_World Economic Outlook_](https://www.imf.org/en/Publications/WEO/Issues/2020/04/14/weo-april-2020) we project global growth in 2020 to fall to -3 percent. This is a downgrade of 6.3 percentage points from January 2020, a major revision over a very short period. This makes the Great Lockdown the worst recession since the Great Depression, and far worse than the Global Financial Crisis.[![](https://blogs.imf.org/wp-content/uploads/2020/04/eng-apr-12-weo1.png)](https://blogs.imf.org/wp-content/uploads/2020/04/eng-apr-12-weo1.png)
+>[source](https://blogs.imf.org/2020/04/14/the-great-lockdown-worst-economic-downturn-since-the-great-depression/)
 # Effect on unemployment
 
 > More than 470 million people worldwide are currently unemployed or underemployed, the United Nations has revealed in a [new report compiled by the International Labor Organization (ILO)](https://www.ilo.org/global/about-the-ilo/newsroom/news/WCMS_734454/lang--en/index.htm).
