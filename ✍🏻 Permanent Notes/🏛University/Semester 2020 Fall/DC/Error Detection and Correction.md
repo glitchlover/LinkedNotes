@@ -70,6 +70,8 @@ if we want to find n errors then minimum humming distance is :: $d_min = n+1$
 ^1608475246999
 
 ###  Parity 
+A simple parity check code can detect which kind of error?::odd number
+
 #### Parity Checker
 What is parity check? #card 
 -  Circuit that gives output ‘1’ if there is some error found and gives output ‘0’ if no error is found in the message including the parity bit.
