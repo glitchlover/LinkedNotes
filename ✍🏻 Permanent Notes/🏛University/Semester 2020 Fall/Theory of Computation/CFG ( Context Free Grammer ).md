@@ -135,4 +135,32 @@ Def:: A grammar said to be Ambiguous if there exists two or more derivation tree
 ^1608392447853
 
 ### Removing Ambiguity
-Ambiguity may be removed by using the follow
+Ambiguity may be removed by using the following methods #card 
+![](https://www.gatevidyalay.com/wp-content/uploads/2018/08/Methods-to-Convert-Ambiguous-Grammar-into-Unambiguous-Grammar.png "Methods to Convert Ambiguous Grammar into Unambiguous Grammar")
+- By fixing grammer
+- By adding grouping rules
+- By using semantics and choosing the parse that makes the most sense
+- by adding the precedence rules or other context sensitive parsing rules
+
+#### Removing Ambiguity By Precedence and Associativity rules
+An ambiguous grammar may be converted into an unambiguous grammar by implementing-
+
+- Precedence Constraints
+- Associativity Constraints
+
+These constraints are implemented using the following rules-
+
+### **Rule-01:**
+
+The precedence constraint is implemented using the following rules-
+
+- The level at which the production is present defines the priority of the operator contained in it.
+- The higher the level of the production, the lower the priority of operator.
+- The lower the level of the production, the higher the priority of operator.
+
+### **Rule-02:**
+
+The associativity constraint is implemented using the following rules-
+
+- If the operator is left associative, induce left recursion in its production.
+- If the operator is right associative, induce right recursion in its production.
