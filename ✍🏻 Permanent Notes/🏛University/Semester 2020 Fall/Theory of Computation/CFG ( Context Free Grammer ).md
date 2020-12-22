@@ -135,6 +135,7 @@ Def:: A grammar said to be Ambiguous if there exists two or more derivation tree
 ^1608392447853
 
 ### Removing Ambiguity
+<iframe src="https://www.youtube.com/embed/Z7bJuH3L3s8" class="resize-vertical" style="height: 521px;"></iframe>
 Ambiguity may be removed by using the following methods #card 
 ![](https://www.gatevidyalay.com/wp-content/uploads/2018/08/Methods-to-Convert-Ambiguous-Grammar-into-Unambiguous-Grammar.png "Methods to Convert Ambiguous Grammar into Unambiguous Grammar")
 - By fixing grammer
@@ -149,10 +150,9 @@ An ambiguous grammar may be converted into an unambiguous grammar by implementin
 
 These constraints are implemented using the following rules-
 
-### **Rule-01:**
+### **Rule-01:** Ensure the precedence
 
 The precedence constraint is implemented using the following rules-
-
 - The level at which the production is present defines the priority of the operator contained in it.
 - The higher the level of the production, the lower the priority of operator.
 - The lower the level of the production, the higher the priority of operator.
