@@ -58,13 +58,6 @@ date updated: '2020-12-20T11:42:42+06:00'
 >[source](https://blogs.imf.org/2020/04/14/the-great-lockdown-worst-economic-downturn-since-the-great-depression/)
 # Effect on unemployment
 
-> More than 470 million people worldwide are currently unemployed or underemployed, the United Nations has revealed in a [new report compiled by the International Labor Organization (ILO)](https://www.ilo.org/global/about-the-ilo/newsroom/news/WCMS_734454/lang--en/index.htm).
-> The global unemployment rate remained relatively stable during the 2010s, according to the report. But the [global unemployment rate](https://www.dw.com/en/employment-fails-to-protect-against-poverty-study-shows/a-51546581) is expected to rise by 2.5 million in 2020, from 188 million to 190.5 million people.
-> "For millions of working people, it is becoming increasingly difficult, I think, to build better lives through work," ILO chief Guy Ryder told reporters in Geneva.
-> The annual World Employment and Social Outlook report stressed [not only the unemployed but also the underemployed](https://www.dw.com/en/true-scale-of-german-underemployment-revealed/a-50886887). Some 285 million people worldwide are considered underemployed, meaning they either work less than they want to, have given up searching for work or otherwise lack access to the labor market.
-> The figure of 470 million represents around 13% of the global labor force, the report said.
-> [source](https://www.dw.com/en/half-a-billion-unemployed-or-underemployed-worldwide-un-report/a-52081744)
-
 # Effect on Inflation
 
 > Sharp changes in consumer expenditure may bias inflation during the COVID-19 pandemic.
