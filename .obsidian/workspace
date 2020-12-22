@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "557f470c831c2aac",
+        "id": "6d25cec41336ceb0",
         "type": "leaf",
         "state": {
           "type": "backlink",
@@ -19,7 +19,7 @@
         }
       },
       {
-        "id": "db6c6a074a322b59",
+        "id": "06a8cc2295974bc1",
         "type": "leaf",
         "state": {
           "type": "backlink",
@@ -150,13 +150,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 495.5
   },
   "lastOpenFiles": [
     "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Theory of Computation/CFG ( Context Free Grammer ).md",
-    "Assignment.md",
     "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Theory of Computation/Pushdown Automata.md",
+    "Assignment.md",
     "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Theory of Computation/CNF.md",
     "_AAA/888 GitHub.md",
     "_AAA/000 Index.md",

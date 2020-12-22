@@ -86,10 +86,8 @@ This means at state **q<sub>1</sub>**, if we encounter an input string **‘a’
 <iframe src="https://www.youtube.com/embed/eY7fwj5jvC4" class="resize-vertical" style="height: 505px;"></iframe>
 
 ![[Pasted image 20201222142740.png]]
-
-```mermaid
-graph LR
-	a((A)) -->|" a,b → c "|b((B)) 
+```
+  (A)===|a,b → c|===(B)
 ```
 what does a, b and c means?
 a = Input Symbol
