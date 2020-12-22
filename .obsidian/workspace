@@ -9,7 +9,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Theory of Computation/Pushdown Automata.md",
+            "file": "TC Final Todo.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -24,7 +24,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Theory of Computation/Pushdown Automata.md",
+            "file": "TC Final Todo.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -40,7 +40,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Theory of Computation/Pushdown Automata.md",
+            "file": "TC Final Todo.md",
             "mode": "source"
           }
         }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Theory of Computation/Pushdown Automata.md",
+                "file": "TC Final Todo.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Theory of Computation/Pushdown Automata.md"
+                "file": "TC Final Todo.md"
               }
             }
           }
@@ -154,6 +154,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "TC Final Todo.md",
     "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Theory of Computation/Pushdown Automata.md",
     "ntoer.md",
     "🎈 Reference Notes/👩🏻‍💻Code Documentation/mermaid.md",
@@ -162,7 +163,6 @@
     "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Economics/Macroeconomics/Business Cycle, Unemployment and Inflation.md",
     "Untitled.md",
     "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Hum/Business Cycle, Unemployment and Inflation.md",
-    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/DC/Transmission Media.md",
-    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/TC/🔴 CNF.md"
+    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/DC/Transmission Media.md"
   ]
 }
