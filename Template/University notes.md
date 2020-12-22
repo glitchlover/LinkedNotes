@@ -3,8 +3,8 @@ ankified?: 'no'
 lecture: null
 subject: null
 tag: null
-date:{{date: dddd Do, MMM y (DDDo)}}
+date: {{tp_today}}
 status:
   - ongoing
-cards-deck: default
+cards-deck: {{tp_folder}}::{{tp_title}}
 ---
