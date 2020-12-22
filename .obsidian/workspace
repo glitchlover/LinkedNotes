@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "5977ddd826808956",
+        "id": "6786dc0599e20c00",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/TC/Pushdown Automata.md",
+            "file": "_AAA/999.1 Todo.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -19,16 +19,16 @@
         }
       },
       {
-        "id": "4f1a34ffb24c6fc3",
+        "id": "2703e59f4667c8be",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/TC/Pushdown Automata.md",
+            "file": "_AAA/999.1 Todo.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
-            "backlinkCollapsed": false,
+            "backlinkCollapsed": true,
             "unlinkedCollapsed": true
           }
         }
@@ -40,7 +40,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/TC/Pushdown Automata.md",
+            "file": "_AAA/999.1 Todo.md",
             "mode": "source"
           }
         }
@@ -117,7 +117,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/TC/Pushdown Automata.md",
+                "file": "_AAA/999.1 Todo.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/TC/Pushdown Automata.md",
+                "file": "_AAA/999.1 Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/TC/Pushdown Automata.md"
+                "file": "_AAA/999.1 Todo.md"
               }
             }
           }
@@ -182,15 +182,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/TC/Pushdown Automata.md",
+    "_AAA/999.1 Todo.md",
     "The For Types of Grammer.md",
-    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/DC/Switching.md",
+    "Parabola.md",
     "Assignment.md",
+    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Economics/think at the margin.md",
+    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Economics/MacroEconomics.md",
+    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Economics/incentives.md",
+    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Economics/10 Principle of economics.md",
     "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/TC/CFG ( Context Free Grammer ).md",
-    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/DC/Transmission Media.md",
-    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/DC/Error Detection and Correction.md",
-    "Switching.md",
-    "Template/University notes.md",
-    "_AAA/555 University.md"
+    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/TC/🔴 CNF.md"
   ]
 }
