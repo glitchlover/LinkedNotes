@@ -16,7 +16,6 @@ def:: A pushdown automaton is a way to implement a context-free grammar in a sim
 
 A DFA can remember a finite amount of information, but a PDA can remember....:: an infinite amount of information.
 ^1608565479308
-
 ---
 - What kind of stack PDA is?:: ε-NFA
 ^1608565479715
