@@ -1,5 +1,5 @@
 ---
-cards-deck: Theory of computation::Turing Computation
+cards-deck: Theory of Computation::Turing Computation
 ^1608214104275
 ankified?: no
 
@@ -99,5 +99,5 @@ That means in q0 state, if we read symbol 'a' then it will go to state q1, repla
 ### Acceptance
 ## Turing machine Example
 
-
+### Infinite Loop Example
 
