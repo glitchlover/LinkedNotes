@@ -94,3 +94,10 @@ That means in q0 state, if we read symbol 'a' then it will go to state q1, repla
 
 ## Determinism
 ### Partial transition function
+### Halting
+### Final States
+### Acceptance
+## Turing machine Example
+
+
+
