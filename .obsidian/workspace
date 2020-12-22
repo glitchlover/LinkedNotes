@@ -9,7 +9,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Daily Notes/_Template.md",
+            "file": "_AAA/555 University.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -24,7 +24,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Daily Notes/_Template.md",
+            "file": "_AAA/555 University.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -40,7 +40,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily Notes/_Template.md",
+            "file": "_AAA/555 University.md",
             "mode": "source"
           }
         }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/_Template.md",
+                "file": "_AAA/555 University.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/_Template.md"
+                "file": "_AAA/555 University.md"
               }
             }
           }
@@ -149,9 +149,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 495.5
+    "width": 495.5,
+    "collapsed": true
   },
   "lastOpenFiles": [
+    "_AAA/555 University.md",
+    "_AAA/888 GitHub.md",
     "Daily Notes/_Template.md",
     "Day Planners/Day Planner-20201206.md",
     "Day Planners/Day Planner-20201214.md",
@@ -159,8 +162,6 @@
     "Day Planners/Day Planner-20201217.md",
     "Day Planners/Day Planner-20201219.md",
     "Day Planners/Day Planner-20201221.md",
-    "Day Planners/Day Planner-20201220.md",
-    "Day Planners/Day Planner-20201218.md",
-    "Day Planners/Day Planner-20201216.md"
+    "Day Planners/Day Planner-20201220.md"
   ]
 }
