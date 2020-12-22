@@ -157,9 +157,8 @@ The precedence constraint is implemented using the following rules-
 - The higher the level of the production, the lower the priority of operator.
 - The lower the level of the production, the higher the priority of operator.
 
-### **Rule-02:**
+### **Rule-02:** ensure Associativity
 
-The associativity constraint is implemented using the following rules-
-
-- If the operator is left associative, induce left recursion in its production.
+The associativity constraint is implemented using the following rules- #card
+- we need to *transform* grammer **left recursive**. Which means at the production *the head and the first variable of the leave must be the same*
 - If the operator is right associative, induce right recursion in its production.
