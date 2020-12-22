@@ -107,3 +107,5 @@ here is how it is done #card
 def::A linear block code is a code in which exclusive or (addition modulo-2) of two valid codewords creates another valid codewords 
 ^1608525551057
 
+#### Syndrome
+##### How to find errors

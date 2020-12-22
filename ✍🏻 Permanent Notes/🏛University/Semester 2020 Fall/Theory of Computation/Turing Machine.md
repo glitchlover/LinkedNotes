@@ -1,5 +1,5 @@
 ---
-cards-deck: Theory of computation::Turing Computation
+cards-deck: Theory of Computation::Turing Computation
 ^1608214104275
 ankified?: no
 
@@ -89,4 +89,14 @@ here is  how δ looks like #card
 ```(q0, a) → (q1, A, R)```
 That means in q0 state, if we read symbol 'a' then it will go to state q1, replaced a by X and move ahead right(R stands for right).
 ^1608214074248
+[[🔴 999.2 Edit Later|finish]]
+## Instantaneous Description of a Turing machine
 
+## Determinism
+### Partial transition function
+### Halting
+### Final States
+### Acceptance
+## Turing machine Example
+
+### Infinite Loop Example

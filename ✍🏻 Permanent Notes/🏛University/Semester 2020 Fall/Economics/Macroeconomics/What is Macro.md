@@ -43,7 +43,7 @@ Advantage of static(non-growing) economies over dynamic growing economies #card
 
 ## Unemployment Growth and the Future
 
-When the unemployment occurs? Describe using [[MacroEconomics#^8def06|ppc]] #card
+When the unemployment occurs? Describe using [[What is Macro#^8def06|ppc]] #card
 - if the curve under a, b, c, d points
 - ![[Pasted image 20201216223039.png]]
 ^1608177922083
@@ -52,9 +52,9 @@ When the unemployment occurs? Describe using [[MacroEconomics#^8def06|ppc]] #car
 
 # Present Choices, Future Possibilities
 ---
-An economy's current choice of investing leads to future location of [[MacroEconomics#^8def06|ppc]] #card_spaced
+An economy's current choice of investing leads to future location of [[What is Macro#^8def06|ppc]] #card_spaced
 
-We are creating two kinds of [[MacroEconomics#^8def06|ppc]]
+We are creating two kinds of [[What is Macro#^8def06|ppc]]
 - **goods for the future** :: goods for the future are - capital, education, research etc ^69514a
 ^1608111847885
 - **good for the present** :: good for the present are - consumers good 
@@ -68,7 +68,7 @@ We are creating two kinds of [[MacroEconomics#^8def06|ppc]]
 ^1608111848605
 
 - What are the different? #card 
-	- **Presentville** :: Economy that invest lots on  [[MacroEconomics#^5cf5ec|good for the present]]
+	- **Presentville** :: Economy that invest lots on  [[What is Macro#^5cf5ec|good for the present]]
 ^1608111848972
 
 	- **Futureville**:: Economy that invest lots on [[MacroEconomics#^69514a| good for the future]]

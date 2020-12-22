@@ -1,23 +1,15 @@
 {
   "main": {
-    "id": "e3c24d1bc8d9af01",
+    "id": "0dcda3c36054bcdc",
     "type": "split",
     "children": [
       {
-<<<<<<< HEAD
-        "id": "6786dc0599e20c00",
-=======
-        "id": "654b835af03aa89c",
->>>>>>> af8d5d1 (vault backup: 2020-12-22 09:37:51)
+        "id": "158767fb465e57d6",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-<<<<<<< HEAD
-            "file": "_AAA/999.1 Todo.md",
-=======
-            "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/TC/🔴 CNF.md",
->>>>>>> af8d5d1 (vault backup: 2020-12-22 09:37:51)
+            "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/DC/Switching.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -27,45 +19,29 @@
         }
       },
       {
-<<<<<<< HEAD
-        "id": "2703e59f4667c8be",
-=======
-        "id": "8e6a9ef35386b38b",
->>>>>>> af8d5d1 (vault backup: 2020-12-22 09:37:51)
+        "id": "c64c62563f9bc8f3",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-<<<<<<< HEAD
-            "file": "_AAA/999.1 Todo.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "backlinkCollapsed": true,
-=======
-            "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/TC/🔴 CNF.md",
+            "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/DC/Switching.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
             "backlinkCollapsed": false,
->>>>>>> af8d5d1 (vault backup: 2020-12-22 09:37:51)
             "unlinkedCollapsed": true
           }
         }
       },
       {
-        "id": "41368180ee4301df",
+        "id": "5986dcad3e023764",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-<<<<<<< HEAD
-            "file": "_AAA/999.1 Todo.md",
-=======
-            "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/TC/🔴 CNF.md",
->>>>>>> af8d5d1 (vault backup: 2020-12-22 09:37:51)
-            "mode": "source"
+            "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/DC/Switching.md",
+            "mode": "preview"
           }
         }
       }
@@ -73,15 +49,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "33ba2544d8eda440",
+    "id": "d342fd0fd50930e2",
     "type": "split",
     "children": [
       {
-        "id": "3953458780b6502d",
+        "id": "32f60c7897c4f9b7",
         "type": "tabs",
         "children": [
           {
-            "id": "f52a7fdd420a0706",
+            "id": "71ebc539a2dfd96e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -89,15 +65,7 @@
             }
           },
           {
-            "id": "6ba460606126fc9c",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "f88f14a9fc999ad4",
+            "id": "89e824c6861a4925",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -115,74 +83,23 @@
       }
     ],
     "direction": "horizontal",
-<<<<<<< HEAD
-    "width": 369.5
-=======
-    "width": 278.5
->>>>>>> af8d5d1 (vault backup: 2020-12-22 09:37:51)
+    "width": 300
   },
   "right": {
-    "id": "fd11490cc9c741e0",
+    "id": "5ac46e25ac558449",
     "type": "split",
     "children": [
       {
-        "id": "e8ba4940966db694",
+        "id": "a366b8baab72ee96",
         "type": "tabs",
         "children": [
           {
-            "id": "4d6b5ef91208ac26",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency"
-              }
-            }
-          },
-          {
-            "id": "6adae2909450c4da",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-<<<<<<< HEAD
-                "file": "_AAA/999.1 Todo.md",
-=======
-                "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/TC/🔴 CNF.md",
->>>>>>> af8d5d1 (vault backup: 2020-12-22 09:37:51)
-                "options": {
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.5087618855792589
-                }
-              }
-            }
-          },
-          {
-            "id": "958caebeccfbdfe5",
+            "id": "3b0da7fdbbf7b75a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "_AAA/999.1 Todo.md",
-=======
-                "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/TC/🔴 CNF.md",
->>>>>>> af8d5d1 (vault backup: 2020-12-22 09:37:51)
+                "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/DC/Switching.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,58 +109,23 @@
             }
           },
           {
-            "id": "79f43f42c5e55648",
+            "id": "d80ad2ab869f90d2",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {}
             }
-          },
-          {
-            "id": "49076440717f7647",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-<<<<<<< HEAD
-                "file": "_AAA/999.1 Todo.md"
-=======
-                "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/TC/🔴 CNF.md"
->>>>>>> af8d5d1 (vault backup: 2020-12-22 09:37:51)
-              }
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 50331393,
+    "width": 300,
     "collapsed": true
   },
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "_AAA/999.1 Todo.md",
-    "The For Types of Grammer.md",
-    "Parabola.md",
-    "Assignment.md",
-    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Economics/think at the margin.md",
-    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Economics/MacroEconomics.md",
-    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Economics/incentives.md",
-    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Economics/10 Principle of economics.md",
-    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/TC/CFG ( Context Free Grammer ).md",
-    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/TC/🔴 CNF.md"
-=======
-    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/TC/🔴 CNF.md",
-    "Template/University notes.md",
-    "For Obsidian/Searching.md",
-    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/TC/CFG ( Context Free Grammer ).md",
-    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/TC/Pushdown Automata.md",
-    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Hum/Untitled.md",
-    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/DC/Error Detection and Correction.md",
-    "Switching.md",
+    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/DC/Switching.md",
     "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/DC/Transmission Media.md",
-    "_AAA/555 University.md"
->>>>>>> af8d5d1 (vault backup: 2020-12-22 09:37:51)
+    "TC Final Todo.md"
   ]
 }
