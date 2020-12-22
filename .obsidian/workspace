@@ -4,12 +4,20 @@
     "type": "split",
     "children": [
       {
+<<<<<<< HEAD
         "id": "6786dc0599e20c00",
+=======
+        "id": "654b835af03aa89c",
+>>>>>>> af8d5d1 (vault backup: 2020-12-22 09:37:51)
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
+<<<<<<< HEAD
             "file": "_AAA/999.1 Todo.md",
+=======
+            "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/TC/🔴 CNF.md",
+>>>>>>> af8d5d1 (vault backup: 2020-12-22 09:37:51)
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -19,16 +27,28 @@
         }
       },
       {
+<<<<<<< HEAD
         "id": "2703e59f4667c8be",
+=======
+        "id": "8e6a9ef35386b38b",
+>>>>>>> af8d5d1 (vault backup: 2020-12-22 09:37:51)
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
+<<<<<<< HEAD
             "file": "_AAA/999.1 Todo.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
             "backlinkCollapsed": true,
+=======
+            "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/TC/🔴 CNF.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "backlinkCollapsed": false,
+>>>>>>> af8d5d1 (vault backup: 2020-12-22 09:37:51)
             "unlinkedCollapsed": true
           }
         }
@@ -40,7 +60,11 @@
         "state": {
           "type": "markdown",
           "state": {
+<<<<<<< HEAD
             "file": "_AAA/999.1 Todo.md",
+=======
+            "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/TC/🔴 CNF.md",
+>>>>>>> af8d5d1 (vault backup: 2020-12-22 09:37:51)
             "mode": "source"
           }
         }
@@ -91,7 +115,11 @@
       }
     ],
     "direction": "horizontal",
+<<<<<<< HEAD
     "width": 369.5
+=======
+    "width": 278.5
+>>>>>>> af8d5d1 (vault backup: 2020-12-22 09:37:51)
   },
   "right": {
     "id": "fd11490cc9c741e0",
@@ -117,7 +145,11 @@
             "state": {
               "type": "localgraph",
               "state": {
+<<<<<<< HEAD
                 "file": "_AAA/999.1 Todo.md",
+=======
+                "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/TC/🔴 CNF.md",
+>>>>>>> af8d5d1 (vault backup: 2020-12-22 09:37:51)
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -146,7 +178,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "_AAA/999.1 Todo.md",
+=======
+                "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/TC/🔴 CNF.md",
+>>>>>>> af8d5d1 (vault backup: 2020-12-22 09:37:51)
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +205,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "_AAA/999.1 Todo.md"
+=======
+                "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/TC/🔴 CNF.md"
+>>>>>>> af8d5d1 (vault backup: 2020-12-22 09:37:51)
               }
             }
           }
@@ -182,6 +222,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+<<<<<<< HEAD
     "_AAA/999.1 Todo.md",
     "The For Types of Grammer.md",
     "Parabola.md",
@@ -192,5 +233,17 @@
     "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Economics/10 Principle of economics.md",
     "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/TC/CFG ( Context Free Grammer ).md",
     "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/TC/🔴 CNF.md"
+=======
+    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/TC/🔴 CNF.md",
+    "Template/University notes.md",
+    "For Obsidian/Searching.md",
+    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/TC/CFG ( Context Free Grammer ).md",
+    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/TC/Pushdown Automata.md",
+    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Hum/Untitled.md",
+    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/DC/Error Detection and Correction.md",
+    "Switching.md",
+    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/DC/Transmission Media.md",
+    "_AAA/555 University.md"
+>>>>>>> af8d5d1 (vault backup: 2020-12-22 09:37:51)
   ]
 }
