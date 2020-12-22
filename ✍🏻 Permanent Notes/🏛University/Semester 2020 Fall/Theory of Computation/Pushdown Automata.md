@@ -77,3 +77,8 @@ This means at state **q<sub>1</sub>**, if we encounter an input string **‘a’
 	- if α = ε then stack is :: poped
 	- if α = X then stack is :: replaced by X
 	- if α = YZ then Stack is:: replaced and y and z is pushed 
+
+### Graphical Notation of pushdown automata
+<iframe src="https://www.youtube.com/embed/eY7fwj5jvC4" class="resize-vertical"></iframe>
+
+![[Pasted image 20201222142740.png]]
