@@ -9,7 +9,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Theory of Computation/CNF.md",
+            "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Theory of Computation/Turing Machine.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -24,7 +24,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Theory of Computation/CNF.md",
+            "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Theory of Computation/Turing Machine.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -40,7 +40,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Theory of Computation/CNF.md",
+            "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Theory of Computation/Turing Machine.md",
             "mode": "source"
           }
         }
@@ -118,7 +118,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Theory of Computation/CNF.md",
+                "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Theory of Computation/Turing Machine.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Theory of Computation/CNF.md",
+                "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Theory of Computation/Turing Machine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Theory of Computation/CNF.md"
+                "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Theory of Computation/Turing Machine.md"
               }
             }
           },
@@ -191,6 +191,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Theory of Computation/Turing Machine.md",
     "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Theory of Computation/🔴 CNF.md",
     "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Economics/MacroEconomics.md",
     "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Economics/Business Cycle, Unemployment and Inflation.md",
@@ -199,7 +200,6 @@
     "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/TC/🔴 CNF.md",
     "Template/University notes.md",
     "For Obsidian/Searching.md",
-    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/TC/CFG ( Context Free Grammer ).md",
-    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/TC/Pushdown Automata.md"
+    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/TC/CFG ( Context Free Grammer ).md"
   ]
 }

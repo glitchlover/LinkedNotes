@@ -90,3 +90,4 @@ here is  how δ looks like #card
 That means in q0 state, if we read symbol 'a' then it will go to state q1, replaced a by X and move ahead right(R stands for right).
 ^1608214074248
 
+## Instantaneous Description of a Turing machine
