@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "b6508c6cfc4bf672",
+        "id": "6acaa4082344d3d7",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "TC Final Todo.md",
+            "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Theory of Computation/CFG ( Context Free Grammer ).md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -19,12 +19,12 @@
         }
       },
       {
-        "id": "87626ae5099236b6",
+        "id": "f4661495712fa21e",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "TC Final Todo.md",
+            "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Theory of Computation/CFG ( Context Free Grammer ).md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -40,8 +40,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TC Final Todo.md",
-            "mode": "source"
+            "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Theory of Computation/CFG ( Context Free Grammer ).md",
+            "mode": "preview"
           }
         }
       }
@@ -118,7 +118,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TC Final Todo.md",
+                "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Theory of Computation/CFG ( Context Free Grammer ).md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TC Final Todo.md",
+                "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Theory of Computation/CFG ( Context Free Grammer ).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TC Final Todo.md"
+                "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Theory of Computation/CFG ( Context Free Grammer ).md"
               }
             }
           },
@@ -191,6 +191,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Theory of Computation/CFG ( Context Free Grammer ).md",
     "TC Final Todo.md",
     "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/DC/Error Detection and Correction.md",
     "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Theory of Computation/Turing Machine.md",
@@ -199,7 +200,6 @@
     "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Economics/Business Cycle, Unemployment and Inflation.md",
     "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Economics/incentives.md",
     "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Hum/Business Cycle, Unemployment and Inflation.md",
-    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/TC/🔴 CNF.md",
-    "Template/University notes.md"
+    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/TC/🔴 CNF.md"
   ]
 }
