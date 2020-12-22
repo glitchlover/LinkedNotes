@@ -58,6 +58,7 @@ date updated: '2020-12-20T11:42:42+06:00'
 >[source](https://blogs.imf.org/2020/04/14/the-great-lockdown-worst-economic-downturn-since-the-great-depression/)
 # Effect on unemployment
 
+
 # Effect on Inflation
 
 > Sharp changes in consumer expenditure may bias inflation during the COVID-19 pandemic.
