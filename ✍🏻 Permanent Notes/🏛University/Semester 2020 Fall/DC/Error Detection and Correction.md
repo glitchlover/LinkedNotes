@@ -108,3 +108,4 @@ def::A linear block code is a code in which exclusive or (addition modulo-2) of 
 ^1608525551057
 
 #### Syndrome
+##### How to find errors

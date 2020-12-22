@@ -1,5 +1,6 @@
 [[999.1 Todo]]
-	- [ ] CFG 20
+# TC
+- [ ] CFG page:20
 	- [ ] left most derivation
 	- [ ] right most derivation
 	- [ ] Ambiguity
@@ -15,3 +16,9 @@
 	- [ ] how to draw pda
 
 
+# DC
+- [ ] Data -7
+- [ ] 8
+- [ ] 9
+- [ ] swithching
+- [ ] error
