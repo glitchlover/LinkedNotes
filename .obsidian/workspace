@@ -9,7 +9,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "TC Final Todo.md",
+            "file": "_AAA/888 GitHub.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -24,7 +24,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "TC Final Todo.md",
+            "file": "_AAA/888 GitHub.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -40,8 +40,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TC Final Todo.md",
-            "mode": "source"
+            "file": "_AAA/888 GitHub.md",
+            "mode": "preview"
           }
         }
       }
@@ -91,8 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 350.5,
-    "collapsed": true
+    "width": 350.5
   },
   "right": {
     "id": "5ac46e25ac558449",
@@ -108,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TC Final Todo.md",
+                "file": "_AAA/888 GitHub.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TC Final Todo.md"
+                "file": "_AAA/888 GitHub.md"
               }
             }
           }
@@ -154,15 +153,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "_AAA/888 GitHub.md",
+    "_AAA/000 Index.md",
+    "_AAA/555 University.md",
+    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Theory of Computation/Turing Machine.md",
     "TC Final Todo.md",
     "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Theory of Computation/Pushdown Automata.md",
     "ntoer.md",
     "🎈 Reference Notes/👩🏻‍💻Code Documentation/mermaid.md",
     "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/DC/Switching.md",
-    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Economics/Macroeconomics/What is Macro.md",
-    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Economics/Macroeconomics/Business Cycle, Unemployment and Inflation.md",
-    "Untitled.md",
-    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Hum/Business Cycle, Unemployment and Inflation.md",
-    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/DC/Transmission Media.md"
+    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Economics/Macroeconomics/What is Macro.md"
   ]
 }
