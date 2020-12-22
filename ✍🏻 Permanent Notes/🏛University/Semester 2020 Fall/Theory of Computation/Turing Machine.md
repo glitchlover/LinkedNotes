@@ -100,4 +100,16 @@ That means in q0 state, if we read symbol 'a' then it will go to state q1, repla
 ## Turing machine Example
 
 ### Infinite Loop Example
+- [ ] CFG 20
+	- [ ] left most derivation
+	- [ ] right most derivation
+	- [ ] Ambiguity
+	- [ ] examples
+	- [ ] removing ambiguity 
+[ ] CNF
+- [ ] pushdown
+	- [ ] transition function
+	- [ ] instansitious diagram
+	- [ ] 
+[ ] 
 
