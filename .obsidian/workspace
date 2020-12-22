@@ -150,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "lastOpenFiles": [
     "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Theory of Computation/Pushdown Automata.md",
