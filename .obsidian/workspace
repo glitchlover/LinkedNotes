@@ -9,7 +9,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/DC/Switching.md",
+            "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Theory of Computation/Pushdown Automata.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -24,7 +24,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/DC/Switching.md",
+            "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Theory of Computation/Pushdown Automata.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -40,8 +40,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/DC/Switching.md",
-            "mode": "preview"
+            "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Theory of Computation/Pushdown Automata.md",
+            "mode": "source"
           }
         }
       }
@@ -78,12 +78,21 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "b4c473579561a860",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 350.5,
+    "collapsed": true
   },
   "right": {
     "id": "5ac46e25ac558449",
@@ -99,8 +108,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/DC/Switching.md",
-                "collapseAll": false,
+                "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Theory of Computation/Pushdown Automata.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "backlinkCollapsed": false,
@@ -115,17 +124,44 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "42748361100e6e62",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "49e086ecb8b558ee",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Theory of Computation/Pushdown Automata.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "lastOpenFiles": [
+    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Theory of Computation/Pushdown Automata.md",
     "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/DC/Switching.md",
+    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Economics/Macroeconomics/What is Macro.md",
+    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Economics/Macroeconomics/Business Cycle, Unemployment and Inflation.md",
+    "Untitled.md",
+    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Hum/Business Cycle, Unemployment and Inflation.md",
     "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/DC/Transmission Media.md",
-    "TC Final Todo.md"
+    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/TC/🔴 CNF.md",
+    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/TC/Pushdown Automata.md",
+    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Theory of Computation/Turing Machine.md"
   ]
 }
