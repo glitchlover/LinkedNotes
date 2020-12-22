@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "158767fb465e57d6",
+        "id": "557f470c831c2aac",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "_AAA/888 GitHub.md",
+            "file": "Assignment.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -19,12 +19,12 @@
         }
       },
       {
-        "id": "c64c62563f9bc8f3",
+        "id": "db6c6a074a322b59",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "_AAA/888 GitHub.md",
+            "file": "Assignment.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -40,7 +40,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_AAA/888 GitHub.md",
+            "file": "Assignment.md",
             "mode": "preview"
           }
         }
@@ -91,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 350.5
+    "width": 350.5,
+    "collapsed": true
   },
   "right": {
     "id": "5ac46e25ac558449",
@@ -107,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_AAA/888 GitHub.md",
+                "file": "Assignment.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_AAA/888 GitHub.md"
+                "file": "Assignment.md"
               }
             }
           }
@@ -153,15 +154,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Assignment.md",
+    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Theory of Computation/Pushdown Automata.md",
+    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Theory of Computation/CNF.md",
+    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Theory of Computation/CFG ( Context Free Grammer ).md",
     "_AAA/888 GitHub.md",
     "_AAA/000 Index.md",
     "_AAA/555 University.md",
     "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Theory of Computation/Turing Machine.md",
     "TC Final Todo.md",
-    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Theory of Computation/Pushdown Automata.md",
-    "ntoer.md",
-    "🎈 Reference Notes/👩🏻‍💻Code Documentation/mermaid.md",
-    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/DC/Switching.md",
-    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Economics/Macroeconomics/What is Macro.md"
+    "ntoer.md"
   ]
 }

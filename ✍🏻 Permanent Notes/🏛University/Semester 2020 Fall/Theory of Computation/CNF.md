@@ -20,10 +20,13 @@ cards-deck: Theory of Computation::CNF
 ### Eliminate ε-production
 
 #### First step:: Find nullable variables
+^1608635693407
 
 Basis:: if A ->ε is a production of G, then A is nullable
+^1608635693869
 
 Induction:: if there is a production b -> $C_1 C_2$...$C_k$ such that C is a variable and each C is nullable then B is nullable
+^1608635694383
 
 #### Procedure to remove Null Production
 here is the steps #card 

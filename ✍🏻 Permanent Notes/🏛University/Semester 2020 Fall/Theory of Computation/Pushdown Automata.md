@@ -64,6 +64,7 @@ The arguments of transition function are #card
 δ(q, a, Z) -> (p, α). Explain #card 
 - p is a new state; α is a string of stack symbols that replaces Z at the top of the stack
 - ![[Pasted image 20201222140652.png]]
+^1608635708172
 
 ### Example
 The following diagram shows a transition in a PDA from a state q<sub>1</sub> to state q<sub>2</sub>, labeled as a,b → c. What are a,b and c are? #card 
@@ -75,8 +76,11 @@ This means at state **q<sub>1</sub>**, if we encounter an input string **‘a’
 ### Action of PDA
 - In δ(q, a, Z) contains (p,α) and the stack 
 	- if α = ε then stack is :: poped
+^1608635708686
 	- if α = X then stack is :: replaced by X
+^1608635709161
 	- if α = YZ then Stack is:: replaced and y and z is pushed 
+^1608635709687
 
 ### Graphical Notation of pushdown automata
 <iframe src="https://www.youtube.com/embed/eY7fwj5jvC4" class="resize-vertical" style="height: 505px;"></iframe>

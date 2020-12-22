@@ -67,7 +67,8 @@ ef :: There are finite set of production/rules that shows the recursive definiti
 f CFG #card
 
 -   The 4 components of G
--   ![[Pasted image 20201217134856.png]]
+-   ![[Pas^1608635657754
+ted image 20201217134856.png]]
 
 ram of `S → aSb|ε` ? #card
 ![[Pasted image 20201217135118.png]]
@@ -109,13 +110,11 @@ Top down approach and bottom down approach
     -   Goes down t^1608393333818
 o tree leaves using productions
 
-^1608306159485
 the root which is the starti^1608393334214
 ng symbol **S**
 
 ^1608306159861
-
-### Sentential on tree is a sub-tree of a derivation tree/parse tree such that either all of its children are in the sub-tree or none of them are in the sub-tree. Also it is a string
+on tree is a sub-tree of a derivation tree/parse tree such that either all of its children are in the sub-tree or none of them are in the sub-tree. Also it is a string
 ^1608392446619
 
 ##### Example
