@@ -9,7 +9,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Theory of Computation/CFG ( Context Free Grammer ).md",
+            "file": "Daily Notes/_Template.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -24,7 +24,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Theory of Computation/CFG ( Context Free Grammer ).md",
+            "file": "Daily Notes/_Template.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -40,7 +40,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Theory of Computation/CFG ( Context Free Grammer ).md",
+            "file": "Daily Notes/_Template.md",
             "mode": "source"
           }
         }
@@ -91,8 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 350.5,
-    "collapsed": true
+    "width": 350.5
   },
   "right": {
     "id": "5ac46e25ac558449",
@@ -108,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Theory of Computation/CFG ( Context Free Grammer ).md",
+                "file": "Daily Notes/_Template.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Theory of Computation/CFG ( Context Free Grammer ).md"
+                "file": "Daily Notes/_Template.md"
               }
             }
           }
@@ -153,15 +152,15 @@
     "width": 495.5
   },
   "lastOpenFiles": [
-    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Theory of Computation/CFG ( Context Free Grammer ).md",
-    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Theory of Computation/Pushdown Automata.md",
-    "Assignment.md",
-    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Theory of Computation/CNF.md",
-    "_AAA/888 GitHub.md",
-    "_AAA/000 Index.md",
-    "_AAA/555 University.md",
-    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Theory of Computation/Turing Machine.md",
-    "TC Final Todo.md",
-    "ntoer.md"
+    "Daily Notes/_Template.md",
+    "Day Planners/Day Planner-20201206.md",
+    "Day Planners/Day Planner-20201214.md",
+    "Day Planners/Day Planner-20201215.md",
+    "Day Planners/Day Planner-20201217.md",
+    "Day Planners/Day Planner-20201219.md",
+    "Day Planners/Day Planner-20201221.md",
+    "Day Planners/Day Planner-20201220.md",
+    "Day Planners/Day Planner-20201218.md",
+    "Day Planners/Day Planner-20201216.md"
   ]
 }
