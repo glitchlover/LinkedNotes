@@ -61,20 +61,17 @@ The set "{}" of all CFL is identical to the set  "{}" of languages accepted by [
 ef :: There are finite set of production/rules that shows the recursive definition of a language
 ^1608275875845
 
-# Formal Definition o^1608393332166
-^1608555990609
+## Formal Definition 
 ^1608556025273
-f CFG #card
-
+CFG #card
 -   The 4 components of G
--   ![[Pas^1608635657754
-ted image 20201217134856.png]]
+-   ![[Pasted image 20201217134856.png]]
 
-ram of `S → aSb|ε` ? #card
+diagram of `S → aSb|ε` ? #card
 ![[Pasted image 20201217135118.png]]
 ^1608306157901
 
-## **Context Free Grammars** (CFG) can be classified on the basis of following two properties:
+### **Context Free Grammars** can be classified on the basis of following two properties:
 
 1.  Based on number of strings it generates. #card
     -   If CFG is generating finite number of strings, then CFG is **Non-Recursive** (or Derivation)
@@ -90,7 +87,7 @@ ence of grammar rule applications that transform the start symbol into the strin
 
 <!--ignore-->
 
-### Representation Technique
+#### Representation Technique
 
 -   **Root vertex** − Must be labeled by the **start** symbol.
 -   **Vertex** − Labeled by a **non-terminal** symbol.
@@ -100,7 +97,7 @@ If S → x<sub>1</sub>x<sub>2</sub> …… x<sub>n</sub> is a production rule in
 
 ![https://www.tutorialspoint.com/automata_theory/images/derivation_tree.jpg](https://www.tutorialspoint.com/automata_theory/images/derivation_tree.jpg)
 
-#### There are two different approaches to draw a derivation tree − #card
+##### There are two different approaches to draw a derivation tree − #card
 
 Top down approach and bottom down approach
 ^1608306159104
@@ -117,14 +114,14 @@ ng symbol **S**
 on tree is a sub-tree of a derivation tree/parse tree such that either all of its children are in the sub-tree or none of them are in the sub-tree. Also it is a string
 ^1608392446619
 
-##### Example
+###### Example
 
 If in any CFG the productions are − `S → AB, A → aaA | ε, B → Bb| ε`the partial derivation tree can be the following − #card
 ![](https://www.tutorialspoint.com/automata_theory/images/sentential_form_and_partial_derivation_tree.jpg)
 (There can be more trees to be reproduce this is just an example)
 ^1608392447030
 
-#### Sentential Form
+## Sentential Form
 
 def::If a [[CFG ( Context Free Grammer )#^805ff3]] tree contains the root S, it is called a **sentential form**. The above sub-tree is also in sentential form. Also sentential form is a string
 ^1608392447444
@@ -134,9 +131,10 @@ def::If a [[CFG ( Context Free Grammer )#^805ff3]] tree contains the root S, it 
 Def:: A grammar said to be Ambiguous if there exists two or more derivation tree for a String w (that mean more then two left derivation tree)
 ^1608392447853
 
-### Removing Ambiguity
+### Removing Ambiguity #card-spaced 
 <iframe src="https://www.youtube.com/embed/Z7bJuH3L3s8" class="resize-vertical" style="height: 521px;"></iframe>
-Ambiguity may be removed by using the following methods #card 
+
+Ambiguity may be removed by using the following methods 
 ![](https://www.gatevidyalay.com/wp-content/uploads/2018/08/Methods-to-Convert-Ambiguous-Grammar-into-Unambiguous-Grammar.png "Methods to Convert Ambiguous Grammar into Unambiguous Grammar")
 - By fixing grammer
 - By adding grouping rules
