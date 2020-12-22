@@ -44,28 +44,6 @@
             "mode": "preview"
           }
         }
-      },
-      {
-        "id": "0ec660148e28534b",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "ntoer.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "7be7cae372c24ee3",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "🎈 Reference Notes/👩🏻‍💻Code Documentation/mermaid.md",
-            "mode": "source"
-          }
-        }
       }
     ],
     "direction": "vertical"

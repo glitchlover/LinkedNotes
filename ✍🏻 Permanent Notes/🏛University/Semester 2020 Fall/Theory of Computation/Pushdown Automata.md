@@ -79,6 +79,15 @@ This means at state **q<sub>1</sub>**, if we encounter an input string **‘a’
 	- if α = YZ then Stack is:: replaced and y and z is pushed 
 
 ### Graphical Notation of pushdown automata
-<iframe src="https://www.youtube.com/embed/eY7fwj5jvC4" class="resize-vertical"></iframe>
+<iframe src="https://www.youtube.com/embed/eY7fwj5jvC4" class="resize-vertical" style="height: 505px;"></iframe>
 
 ![[Pasted image 20201222142740.png]]
+
+```mermaid
+graph LR
+	a((A)) -->|" a,b → c "|b((B)) 
+```
+what does a, b and c means?
+a = Input Symbol
+b = top of the  stack
+c = push character
