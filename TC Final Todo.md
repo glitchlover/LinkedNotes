@@ -1,8 +1,8 @@
 [[999.1 Todo]]
 # TC
 - [ ] CFG page:20
-	- [ ] left most derivation
-	- [ ] right most derivation
+	- [x] left most derivation
+	- [x] right most derivation
 	- [ ] Ambiguity
 	- [ ] examples
 	- [ ] removing ambiguity 
