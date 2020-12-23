@@ -141,7 +141,7 @@ Ambiguity may be removed by using the following methods
 - By using semantics and choosing the parse that makes the most sense
 - by adding the precedence rules or other context sensitive parsing rules
 
-#### Removing Ambiguity By Precedence and Associativity rules
+#### Removing Ambiguity By** Precedence and Associativity** rules
 An ambiguous grammar may be converted into an unambiguous grammar by implementing #card 
 - Precedence Constraints
 - Associativity Constraints
