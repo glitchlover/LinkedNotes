@@ -53,4 +53,4 @@ We will proceed with the method:
 
 **Basis**::(A, A) is a unit pair of any variabel A, if A->A by 0 steps
 
-Induction:: Let's (A, B) be a unit pair and let b
+Induction:: Let's (A, B) be a unit pair and let B -> C is a production, where A, B, and C are variables, then we can conclude that (A, C) is also a unit pair
