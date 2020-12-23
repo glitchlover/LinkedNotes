@@ -1,63 +1,30 @@
 {
   "main": {
-    "id": "e3c24d1bc8d9af01",
+    "id": "27334a9f8cefbeaf",
     "type": "split",
     "children": [
       {
-        "id": "3eea8983b75f8dcd",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "TC Final Todo.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
-          }
-        }
-      },
-      {
-        "id": "faa63860622b558a",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "TC Final Todo.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
-          }
-        }
-      },
-      {
-        "id": "41368180ee4301df",
+        "id": "690274efc169b80f",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "TC Final Todo.md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "33ba2544d8eda440",
+    "id": "d5cfbc1cab01b026",
     "type": "split",
     "children": [
       {
-        "id": "3953458780b6502d",
+        "id": "1798b7169d1fce4f",
         "type": "tabs",
         "children": [
           {
-            "id": "f52a7fdd420a0706",
+            "id": "200e05940b7309e0",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -65,15 +32,7 @@
             }
           },
           {
-            "id": "6ba460606126fc9c",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "f88f14a9fc999ad4",
+            "id": "d7de66e60f016adf",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -86,68 +45,43 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "cd85b5386e3a4194",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 278.5,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "fd11490cc9c741e0",
+    "id": "8ff1abadcd027bed",
     "type": "split",
     "children": [
       {
-        "id": "e8ba4940966db694",
+        "id": "6c69d8a31981234e",
         "type": "tabs",
         "children": [
           {
-            "id": "4d6b5ef91208ac26",
+            "id": "dc012eb877c19ba7",
             "type": "leaf",
             "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency"
-              }
+              "type": "calendar",
+              "state": {}
             }
           },
           {
-            "id": "6adae2909450c4da",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "TC Final Todo.md",
-                "options": {
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.5087618855792589
-                }
-              }
-            }
-          },
-          {
-            "id": "958caebeccfbdfe5",
+            "id": "2fe226a709bf5fb9",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TC Final Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,49 +91,29 @@
             }
           },
           {
-            "id": "79f43f42c5e55648",
+            "id": "4ffedce0b36f6b05",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "49076440717f7647",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
+              "type": "tag",
               "state": {
-                "file": "TC Final Todo.md"
+                "sortOrder": "frequency"
               }
             }
           },
           {
-            "id": "39e74e19360d6e58",
+            "id": "8d8597a77a968100",
             "type": "leaf",
             "state": {
-              "type": "calendar",
+              "type": "outline",
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 50331393,
+    "width": 300,
     "collapsed": true
   },
-  "lastOpenFiles": [
-    "TC Final Todo.md",
-    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Theory of Computation/CFG ( Context Free Grammer ).md",
-    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/DC/Error Detection and Correction.md",
-    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Theory of Computation/Turing Machine.md",
-    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Theory of Computation/🔴 CNF.md",
-    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Economics/MacroEconomics.md",
-    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Economics/Business Cycle, Unemployment and Inflation.md",
-    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Economics/incentives.md",
-    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Hum/Business Cycle, Unemployment and Inflation.md",
-    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/TC/🔴 CNF.md"
-  ]
+  "lastOpenFiles": []
 }

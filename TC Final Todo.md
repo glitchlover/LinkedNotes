@@ -3,10 +3,10 @@
 - [ ] CFG page:20
 	- [x] left most derivation
 	- [x] right most derivation
-	- [ ] Ambiguity
-	- [ ] examples
-	- [ ] removing ambiguity 
-- [ ] CNF
+	- [x] Ambiguity
+	- [x] examples
+	- [x] removing ambiguity 
+- [x] CNF
 - [ ] pushdown
 	- [ ] transition function
 	- [ ] instansitious diagram

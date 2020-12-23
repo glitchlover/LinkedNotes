@@ -52,7 +52,7 @@ When the unemployment occurs? Describe using [[What is Macro#^8def06|ppc]] #card
 
 # Present Choices, Future Possibilities
 ---
-An economy's current choice of investing leads to future location of [[What is Macro#^8def06|ppc]] #card_spaced
+An economy's current choice of investing leads to future location of [[What is Macro#^8def06|ppc]] #card-spaced spaced
 
 We are creating two kinds of [[What is Macro#^8def06|ppc]]
 - **goods for the future** :: goods for the future are - capital, education, research etc ^69514a
@@ -79,7 +79,6 @@ We are creating two kinds of [[What is Macro#^8def06|ppc]]
 	-  because they increase the *quantity and quality* of **property resources, enlarge the stock of technological information, and improve the quality** of human resources.
 	- ![[Pasted image 20201216153751.png]]
 ^1608111850022
-
 
 ## Static and Dynamic Model
 **Static Model**:: an economy model where time is constant, inputs are fixed

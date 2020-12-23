@@ -56,11 +56,6 @@ hr{
     -webkit-transform: scale(1.2); /* experiment with values */
     transform: scale(1.2);
   }
-  html,
-  body, body>*
-  {
-      font-size: 20px !important;
-  }
   markdown-preview-sizer markdown-preview-section{
     font-size: 20px !important;
   }
