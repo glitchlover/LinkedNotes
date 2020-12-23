@@ -80,7 +80,6 @@ We are creating two kinds of [[What is Macro#^8def06|ppc]]
 	- ![[Pasted image 20201216153751.png]]
 ^1608111850022
 
-
 ## Static and Dynamic Model
 **Static Model**:: an economy model where time is constant, inputs are fixed
 ^1608111850406
