@@ -52,7 +52,11 @@ When the unemployment occurs? Describe using [[What is Macro#^8def06|ppc]] #card
 
 # Present Choices, Future Possibilities
 ---
+<<<<<<< HEAD:✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Economics/Macroeconomics/What is Macro.md
 An economy's current choice of investing leads to future location of [[What is Macro#^8def06|ppc]] #card-spaced spaced
+=======
+An economy's current choice of investing leads to future location of [[What is Macro#^8def06|ppc]] #card_spaced
+>>>>>>> ec45d1b... vault backup: 2020-12-22 09:47:52:✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Economics/MacroEconomics.md
 
 We are creating two kinds of [[What is Macro#^8def06|ppc]]
 - **goods for the future** :: goods for the future are - capital, education, research etc ^69514a
