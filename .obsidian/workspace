@@ -9,7 +9,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/DC/Switching.md",
+            "file": "Assignment.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -24,7 +24,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/DC/Switching.md",
+            "file": "Assignment.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -40,8 +40,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/DC/Switching.md",
-            "mode": "source"
+            "file": "Assignment.md",
+            "mode": "preview"
           }
         }
       }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/DC/Switching.md",
+                "file": "Assignment.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/DC/Switching.md"
+                "file": "Assignment.md"
               }
             }
           }
@@ -155,8 +155,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/DC/Switching.md",
     "Assignment.md",
+    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/DC/Switching.md",
     "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Theory of Computation/CNF.md",
     "Untitled 1.md",
     "Parabola.md",

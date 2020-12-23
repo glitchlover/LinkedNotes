@@ -22,13 +22,21 @@ Here is the classification of switching network #card
 	- **Circuit Disconnection** : When data transfer is complete, the connection is relinquished. The disconnection is initiated by any one of the user. Disconnection involves removal of all intermediate links from the sender to the receiver.
 ^1608724063701
 
+- How does the delay in this network looks like? #card 
+	- ![[Pasted image 20201223175202.png]]
+
 - A trivial circuit-switched network #card 
 	- ![]( https://storage.googleapis.com/polar-32b0f.appspot.com/image/12frXNQQsRpaoAe1fi4Zae6a7ns452r2LLfD76RX.png)
 ^1608724064086
 
 
 ### Datagram Networks
-How datagram Network works? #card 
+How datagram Network works? 
+
+A trivial datagram network -
+![[Pasted image 20201223175323.png]]
+
+- How do the d
 
 
 ### Virtual-Circuit Networks
