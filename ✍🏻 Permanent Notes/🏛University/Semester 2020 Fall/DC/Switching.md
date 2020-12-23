@@ -1,15 +1,20 @@
 ---
 cards-deck: Digital Communication::Swithching
 ---
-- Switched network
-- Taxonomy of switched networks
-- ![](https://storage.googleapis.com/polar-32b0f.appspot.com/image/12eXTdmNQGZVC33JAQe4bEUmitii6kfwk6rr2vXD.png)
-- Circuit-Switched Networks
+# Switched network
+## Taxonomy of switched networks
+Here is the classification of switching network #card 
+![](https://storage.googleapis.com/polar-32b0f.appspot.com/image/12eXTdmNQGZVC33JAQe4bEUmitii6kfwk6rr2vXD.png)
+
+### Circuit-Switched Networks
 - A circuit-switched network is made of a set of switches connected by physical links, in which each link is divided into n channels.
-- A trivial circuit-switched network
+- A trivial circuit-switched network #card 
 - ![]( https://storage.googleapis.com/polar-32b0f.appspot.com/image/12frXNQQsRpaoAe1fi4Zae6a7ns452r2LLfD76RX.png)
-- Datagram Networks
-- Virtual-Circuit Networks
+
+
+### Datagram Networks
+### Virtual-Circuit Networks
+- What is virtual circuit network? #card 
 - A virtual-circuit network is a cross between a circuit-switched network and a datagram network
 - ![image](https://storage.googleapis.com/polar-32b0f.appspot.com/image/1yToWpGXUDS5MoLJwDQpNgr5tAFmRotNqJS7r5Kb.png)
 - Delay in a circuit-switched network
