@@ -16,6 +16,7 @@ cards-deck: Theory of Computation::CNF
  - Eliminate useless symbols
  - Eliminate ε-production
  - Eliminate unit production
+^1608698128287
 
 ### Eliminate ε-production
 
@@ -33,4 +34,15 @@ here is the steps #card
 - to remove A -> ε, look for the production right side contain A
 - Replace each occurrences of "A" in each of these production with ε 
 - Add the resultant production to the Grammar
+^1608698128736
 
+##### Example 1
+`S -> AB; A -> aAA/ε & B -> bBB/ε`
+Nullale Variables are {A, B, S}
+Because start state also a Nullable symbol so ε belongs to given CFG
+We will proceed with the method:
+```c		
+		S -> AB/A/B/ε
+		A -> aAA/aA/a
+		B -> bAA/bA/b
+```
