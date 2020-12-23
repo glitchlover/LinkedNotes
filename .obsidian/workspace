@@ -9,7 +9,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Theory of Computation/CFG ( Context Free Grammer ).md",
+            "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Economics/Macroeconomics/What is Macro.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -24,7 +24,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Theory of Computation/CFG ( Context Free Grammer ).md",
+            "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Economics/Macroeconomics/What is Macro.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -40,7 +40,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Theory of Computation/CFG ( Context Free Grammer ).md",
+            "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Economics/Macroeconomics/What is Macro.md",
             "mode": "source"
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#card_spaced",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +87,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -108,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Theory of Computation/CFG ( Context Free Grammer ).md",
+                "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Economics/Macroeconomics/What is Macro.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,12 +142,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Theory of Computation/CFG ( Context Free Grammer ).md"
+                "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Economics/Macroeconomics/What is Macro.md"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -154,6 +155,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Economics/Macroeconomics/What is Macro.md",
     "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Theory of Computation/CFG ( Context Free Grammer ).md",
     "Template/University notes.md",
     "_AAA/555 University.md",
@@ -162,7 +164,6 @@
     "Day Planners/Day Planner-20201206.md",
     "Day Planners/Day Planner-20201214.md",
     "Day Planners/Day Planner-20201215.md",
-    "Day Planners/Day Planner-20201217.md",
-    "Day Planners/Day Planner-20201219.md"
+    "Day Planners/Day Planner-20201217.md"
   ]
 }

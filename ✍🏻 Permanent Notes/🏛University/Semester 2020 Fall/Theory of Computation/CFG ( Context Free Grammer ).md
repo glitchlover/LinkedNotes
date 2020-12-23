@@ -132,7 +132,7 @@ Def:: A grammar said to be Ambiguous if there exists two or more derivation tree
 ^1608392447853
 
 ### Removing Ambiguity #card-spaced 
-<iframe src="https://www.youtube.com/embed/Z7bJuH3L3s8" class="resize-vertical" style="height: 521px;"></iframe>
+<iframe src="https://www.youtube.com/embed/9vmhcBpZDcE" class="resize-vertical" style="height: 498px;"></iframe>
 
 Ambiguity may be removed by using the following methods 
 ![](https://www.gatevidyalay.com/wp-content/uploads/2018/08/Methods-to-Convert-Ambiguous-Grammar-into-Unambiguous-Grammar.png "Methods to Convert Ambiguous Grammar into Unambiguous Grammar")

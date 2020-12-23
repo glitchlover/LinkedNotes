@@ -52,7 +52,7 @@ When the unemployment occurs? Describe using [[What is Macro#^8def06|ppc]] #card
 
 # Present Choices, Future Possibilities
 ---
-An economy's current choice of investing leads to future location of [[What is Macro#^8def06|ppc]] #card_spaced
+An economy's current choice of investing leads to future location of [[What is Macro#^8def06|ppc]] #card-spaced spaced
 
 We are creating two kinds of [[What is Macro#^8def06|ppc]]
 - **goods for the future** :: goods for the future are - capital, education, research etc ^69514a
