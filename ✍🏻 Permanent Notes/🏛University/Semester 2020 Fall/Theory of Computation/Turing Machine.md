@@ -9,26 +9,6 @@ tag:
 date:  Thursday 17th, Dec 2020 (352nd)
 status: [ongoing]
 ---
-- Undecidable Problems
-- Basic Concept
-- First Computer
-- Can Machine Think?
-	- Turing Test
-	- Artificial Intelligent
-- Turing Test
-- Turing Machine Characteristics
-- How it works
-	- steps of input tape (3)
-	- The Input String
-- Picture of a Turing Machine
-- Def of Turing Machine
-	- 7 tuples
-		- M= (Q,⨊ ,Γ , δ,  $q_0$ , B, F)
-		- Transition Function
-			- two argument
-			- 3 output
-		-  Example
-
 # Turing Machine
 ## Why Turing Machine 
 the following problem is called the decision making problem
