@@ -18,7 +18,7 @@ cards-deck: Digital Communication::Bandwidth-Utilization(MuX)
 ## Classification of Mux
 - multiplexing is of three types #card 
 	- ![](https://remnote-user-data.s3.amazonaws.com/OrzWg9KB9QewS1tPTb5Rrip-KTRxdc_ej2cMHnofTLYfN5w044Qj6SuLDDk5VVPJ0OiS75lDbKQ2j4Tnlhns-ZVQuuXToi0QkRXiTA5y0aUDfOrbgSIXzwbWy34B_OUc)	
-	- FDM
+  	- FDM
 	- WDM
 	- TDM
 
@@ -31,7 +31,11 @@ cards-deck: Digital Communication::Bandwidth-Utilization(MuX)
 - FDM demultiplexing process:: 
 	- ![](https://remnote-user-data.s3.amazonaws.com/TaGMftKN9WMzZCGUOt2FgcEIH2RpLWYnnJIm-u5FmipVUA_CRvsAUM5v5b4CcMztX-Gc_Tl0cfOOxRpg4jKeCo9ltIv-NJhewyz4oq8hyPGbLwTdlcIWIujN_CKCKoLw)  
 	- Analog hierarchy:: ![](https://remnote-user-data.s3.amazonaws.com/lGaLh1VKlYKSRXzRb3xxVzkUgKoZnt6AuQwZvVa32chXsRXzgxcTekOyhaRqi808CTV8fnEO3376EdxApW0ry5PlYvl44mkKXyqDt-s1eMUCZg9xwr3J2RIeXqiw56F1)
-- Wavelength-division multiplex (WDM)
+
+### Wavelength-division multiplex (WDM)
+
+
+
 - Time Division Multiplexing (TDM)
 ![](https://remnote-user-data.s3.amazonaws.com/NdFOj6d7wZZMr04_v8ki9EsyqGIv3gajWN-joU2xN6LKHlBptVnlLXeOgWeedWAW0GVB_6zLiC3e44XZQIDT6kD8fpOM0XLx0Bd-MKy4nMJV3ZJdOjQ1tLPbYNp-_uVU)
 	- TDM slot comparison
