@@ -9,7 +9,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Theory of Computation/CNF.md",
+            "file": "Parabola.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -24,7 +24,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Theory of Computation/CNF.md",
+            "file": "Parabola.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -40,7 +40,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Theory of Computation/CNF.md",
+            "file": "Parabola.md",
             "mode": "source"
           }
         }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Theory of Computation/CNF.md",
+                "file": "Parabola.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Theory of Computation/CNF.md"
+                "file": "Parabola.md"
               }
             }
           }
@@ -155,6 +155,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Parabola.md",
+    "✍🏻 Permanent Notes/Math/Lecture 1.md",
     "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Theory of Computation/CNF.md",
     "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Theory of Computation/CFG ( Context Free Grammer ).md",
     "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Economics/Macroeconomics/What is Macro.md",
@@ -162,8 +164,6 @@
     "_AAA/555 University.md",
     "_AAA/888 GitHub.md",
     "Daily Notes/_Template.md",
-    "Day Planners/Day Planner-20201206.md",
-    "Day Planners/Day Planner-20201214.md",
-    "Day Planners/Day Planner-20201215.md"
+    "Day Planners/Day Planner-20201206.md"
   ]
 }
