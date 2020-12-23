@@ -72,10 +72,11 @@ That means in q0 state, if we read symbol 'a' then it will go to state q1, repla
 [[🔴 999.2 Edit Later|finish]]
 ## Instantaneous Description of a Turing machine
 What is instantaneos description? #card  
-- It is a collection of left side of the head, the input head is scanning, the head state and the right side of the head. The collection is separated by "⊦"
+- It is a collection of left side of the head, the input head is scanning, the head state and the right side of the head.
 
-By what 
+-   The collection is separated by ..:: "⊦"
 
+### Example
 
 ## Determinism
 ### Partial transition function
