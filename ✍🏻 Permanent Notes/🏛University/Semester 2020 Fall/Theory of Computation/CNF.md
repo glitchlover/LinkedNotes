@@ -48,3 +48,7 @@ We will proceed with the method:
 ```
 
 ### Eliminating Unit Production
+
+#### Find the Unit Production
+
+**Basis**::(A, A) is a unit pair of any variabel A, if A->A by 0 steps
