@@ -849,8 +849,7 @@ class CalendarSettingsTab extends obsidian.PluginSettingTab {
     addStartWeekOnMondaySetting() {
         const { moment } = window;
         const [sunday, monday] = moment.weekdays();
-        // eslint-disable-next-line @typescript-eslint/no-explicit-any
-        const localeWeekStartNum = moment.localeData()._week.dow;
+        const localeWeekStartNum = window._bundledLocaleWeekSpec.dow;
         const localeWeekStart = moment.weekdays()[localeWeekStartNum];
         new obsidian.Setting(this.containerEl)
             .setName("Start week on:")
@@ -983,20 +982,27 @@ function getNotePath$1(directory, filename) {
     return obsidian.normalizePath(path.join(directory, filename));
 }
 
-function getDayOfWeekNumericalValue(dayOfWeekName) {
+function getDaysOfWeek() {
     const { moment } = window;
     // eslint-disable-next-line @typescript-eslint/no-explicit-any
-    const weekStart = moment.localeData()._week.dow;
+    let weekStart = moment.localeData()._week.dow;
     const daysOfWeek = [
+        "sunday",
         "monday",
         "tuesday",
         "wednesday",
         "thursday",
         "friday",
         "saturday",
-        "sunday",
     ];
-    return (daysOfWeek.indexOf(dayOfWeekName.toLowerCase()) + weekStart) % 7;
+    while (weekStart) {
+        daysOfWeek.push(daysOfWeek.shift());
+        weekStart--;
+    }
+    return daysOfWeek;
+}
+function getDayOfWeekNumericalValue(dayOfWeekName) {
+    return getDaysOfWeek().indexOf(dayOfWeekName.toLowerCase());
 }
 async function createWeeklyNote(date, settings) {
     const { vault } = window.app;
@@ -1042,7 +1048,7 @@ async function tryToCreateWeeklyNote(date, inNewSplit, settings, cb) {
             ? workspace.splitActiveLeaf()
             : workspace.getUnpinnedLeaf();
         await leaf.openFile(dailyNote);
-        cb === null || cb === void 0 ? void 0 : cb();
+        cb === null || cb === void 0 ? void 0 : cb(dailyNote);
     };
     if (settings.shouldConfirmBeforeCreate) {
         createConfirmationDialog({
@@ -1101,7 +1107,7 @@ function isMacOS() {
 function isMetaPressed(e) {
     return isMacOS() ? e.metaKey : e.ctrlKey;
 }
-function getDaysOfWeek(_settings) {
+function getDaysOfWeek$1(_settings) {
     return window.moment.weekdaysShort(true);
 }
 function isWeekend(date) {
@@ -1120,7 +1126,6 @@ function getMonthData(activeFile, displayedMonth, settings) {
     let dailyNotes = [];
     try {
         dailyNotes = getAllDailyNotes_1();
-        console.log("dailynotes", dailyNotes);
     }
     catch (err) {
         new obsidian.Notice(err);
@@ -2645,7 +2650,7 @@ function instance$2($$self, $$props, $$invalidate) {
 	$$self.$$.update = () => {
 		if ($$self.$$.dirty & /*settings, activeFile, displayedMonth*/ 35) {
 			 {
-				$$invalidate(7, daysOfWeek = getDaysOfWeek());
+				$$invalidate(7, daysOfWeek = getDaysOfWeek$1());
 				$$invalidate(6, month = getMonthData(activeFile, displayedMonth, settings));
 			}
 		}

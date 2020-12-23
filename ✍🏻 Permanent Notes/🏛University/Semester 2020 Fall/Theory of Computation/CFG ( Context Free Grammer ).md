@@ -160,3 +160,4 @@ The precedence constraint is implemented using the following rules-
 The associativity constraint is implemented using the following rules- #card
 - we need to *transform* grammer **left recursive**. Which means at the production *the head and the first variable of the leave must be the same*
 - If the operator is right associative, induce right recursion in its production.
+   
