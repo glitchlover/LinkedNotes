@@ -4,12 +4,20 @@
     "type": "split",
     "children": [
       {
+<<<<<<< HEAD
         "id": "3e24ed0f808b8f8e",
+=======
+        "id": "e33c09ceeed1ed1c",
+>>>>>>> 8cf75104ebcdc2500dd3c98324209610d09057de
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
+<<<<<<< HEAD
             "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/DC/Switching.md",
+=======
+            "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/DC/Bandwidth-Utilization-#Lecture-14,-#Lecture-15.md",
+>>>>>>> 8cf75104ebcdc2500dd3c98324209610d09057de
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -19,12 +27,20 @@
         }
       },
       {
+<<<<<<< HEAD
         "id": "968c03d5892c5c09",
+=======
+        "id": "32d5ef2d679bb17f",
+>>>>>>> 8cf75104ebcdc2500dd3c98324209610d09057de
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
+<<<<<<< HEAD
             "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/DC/Switching.md",
+=======
+            "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/DC/Bandwidth-Utilization-#Lecture-14,-#Lecture-15.md",
+>>>>>>> 8cf75104ebcdc2500dd3c98324209610d09057de
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -34,14 +50,23 @@
         }
       },
       {
+<<<<<<< HEAD
         "id": "890508308a913a0a",
+=======
+        "id": "690274efc169b80f",
+>>>>>>> 8cf75104ebcdc2500dd3c98324209610d09057de
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
+<<<<<<< HEAD
             "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/DC/Switching.md",
             "mode": "preview"
+=======
+            "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/DC/Bandwidth-Utilization-#Lecture-14,-#Lecture-15.md",
+            "mode": "source"
+>>>>>>> 8cf75104ebcdc2500dd3c98324209610d09057de
           }
         }
       }
@@ -100,7 +125,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/DC/Switching.md",
+=======
+                "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/DC/Bandwidth-Utilization-#Lecture-14,-#Lecture-15.md",
+>>>>>>> 8cf75104ebcdc2500dd3c98324209610d09057de
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,8 +142,25 @@
             "id": "c82a3c22b753a481",
             "type": "leaf",
             "state": {
+<<<<<<< HEAD
               "type": "calendar",
               "state": {}
+=======
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "8d8597a77a968100",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/DC/Bandwidth-Utilization-#Lecture-14,-#Lecture-15.md"
+              }
+>>>>>>> 8cf75104ebcdc2500dd3c98324209610d09057de
             }
           }
         ]
@@ -125,7 +171,11 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+<<<<<<< HEAD
     "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/DC/Switching.md",
     "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/DC/Error Detection and Correction.md"
+=======
+    "📔-Note-Books/Data-Communication/Bandwidth-Utilization-#Lecture-14,-#Lecture-15.md"
+>>>>>>> 8cf75104ebcdc2500dd3c98324209610d09057de
   ]
 }
