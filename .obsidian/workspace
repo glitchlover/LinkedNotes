@@ -1,16 +1,46 @@
 {
   "main": {
-    "id": "0dcda3c36054bcdc",
+    "id": "2d4919833b212cf3",
     "type": "split",
     "children": [
       {
-        "id": "5986dcad3e023764",
+        "id": "3e24ed0f808b8f8e",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/DC/Switching.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "968c03d5892c5c09",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/DC/Switching.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "890508308a913a0a",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Assignment.md",
+            "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/DC/Switching.md",
             "mode": "preview"
           }
         }
@@ -19,15 +49,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "d342fd0fd50930e2",
+    "id": "cd42c3aad59430df",
     "type": "split",
     "children": [
       {
-        "id": "32f60c7897c4f9b7",
+        "id": "593b725a41d963ee",
         "type": "tabs",
         "children": [
           {
-            "id": "71ebc539a2dfd96e",
+            "id": "084af5bdab37f05f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,12 +65,12 @@
             }
           },
           {
-            "id": "89e824c6861a4925",
+            "id": "efe919c53a1a8849",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#card_spaced",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,39 +78,30 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "b4c473579561a860",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 350.5,
+    "width": 300,
     "collapsed": true
   },
   "right": {
-    "id": "5ac46e25ac558449",
+    "id": "bea10994c8f9a07c",
     "type": "split",
     "children": [
       {
-        "id": "a366b8baab72ee96",
+        "id": "d1936086bb3f6973",
         "type": "tabs",
         "children": [
           {
-            "id": "3b0da7fdbbf7b75a",
+            "id": "3dfe3fa15df41d1b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assignment.md",
-                "collapseAll": true,
+                "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/DC/Switching.md",
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "backlinkCollapsed": false,
@@ -89,47 +110,22 @@
             }
           },
           {
-            "id": "d80ad2ab869f90d2",
+            "id": "c82a3c22b753a481",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "42748361100e6e62",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "49e086ecb8b558ee",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
+              "type": "calendar",
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 495.5,
+    "width": 300,
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Assignment.md",
     "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/DC/Switching.md",
-    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Theory of Computation/CNF.md",
-    "Untitled 1.md",
-    "Parabola.md",
-    "✍🏻 Permanent Notes/Math/Lecture 1.md",
-    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Theory of Computation/CFG ( Context Free Grammer ).md",
-    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Economics/Macroeconomics/What is Macro.md",
-    "Template/University notes.md",
-    "_AAA/555 University.md"
+    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/DC/Error Detection and Correction.md"
   ]
 }
