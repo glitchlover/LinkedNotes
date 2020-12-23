@@ -25,6 +25,7 @@
           "type": "backlink",
           "state": {
             "file": "Assignment.md",
+            "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Theory of Computation/CNF.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -41,6 +42,7 @@
           "type": "markdown",
           "state": {
             "file": "Assignment.md",
+            "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Theory of Computation/CNF.md",
             "mode": "source"
           }
         }
@@ -93,6 +95,7 @@
     ],
     "direction": "horizontal",
     "width": 350.5,
+    "width": 278.5,
     "collapsed": true
   },
   "right": {
@@ -105,12 +108,54 @@
         "children": [
           {
             "id": "3b0da7fdbbf7b75a",
+            "id": "4d6b5ef91208ac26",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "6adae2909450c4da",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Theory of Computation/CNF.md",
+                "options": {
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.5087618855792589
+                }
+              }
+            }
+          },
+          {
+            "id": "958caebeccfbdfe5",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
                 "file": "Assignment.md",
                 "collapseAll": true,
+                "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Theory of Computation/CNF.md",
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "backlinkCollapsed": false,
@@ -155,15 +200,17 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Assignment.md",
     "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/DC/Switching.md",
     "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Theory of Computation/CNF.md",
-    "Untitled 1.md",
     "Parabola.md",
     "✍🏻 Permanent Notes/Math/Lecture 1.md",
     "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Theory of Computation/CFG ( Context Free Grammer ).md",
     "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Economics/Macroeconomics/What is Macro.md",
     "Template/University notes.md",
     "_AAA/555 University.md"
-  ]
-}
+=======
+    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Theory of Computation/🔴 CNF.md",
+    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Economics/MacroEconomics.md",
+    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Economics/Business Cycle, Unemployment and Inflation.md",
