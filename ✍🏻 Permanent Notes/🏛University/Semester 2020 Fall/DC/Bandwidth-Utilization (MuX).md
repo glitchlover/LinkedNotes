@@ -25,7 +25,9 @@ cards-deck: Digital Communication::Bandwidth-Utilization(MuX)
 
 ### Frequency division multiplexing(FDM)
 - FDM:: FDM is an **analogue technique** in which numerous signals are combined for transmission on a  single channel
-	- ![](https://remnote-user-data.s3.amazonaws.com/Q4x9NTJJnAvE2NEiC0lwTNnVY8LlztSBv83c6V1RRDCYiT8n3MYbahOluHhEmYG66xngtouxHIy49wCHgxdNi-xQtaOvSj_g9_t5XVdaaBAFyw70qdO-GjsyWqItgv68)
+	- ![[Pasted image 20201223202852.png]]
+
+
 - FDM demultiplexing process:: 
 	- ![](https://remnote-user-data.s3.amazonaws.com/TaGMftKN9WMzZCGUOt2FgcEIH2RpLWYnnJIm-u5FmipVUA_CRvsAUM5v5b4CcMztX-Gc_Tl0cfOOxRpg4jKeCo9ltIv-NJhewyz4oq8hyPGbLwTdlcIWIujN_CKCKoLw)  
 	- Analog hierarchy:: ![](https://remnote-user-data.s3.amazonaws.com/lGaLh1VKlYKSRXzRb3xxVzkUgKoZnt6AuQwZvVa32chXsRXzgxcTekOyhaRqi808CTV8fnEO3376EdxApW0ry5PlYvl44mkKXyqDt-s1eMUCZg9xwr3J2RIeXqiw56F1)
