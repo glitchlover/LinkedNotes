@@ -17,7 +17,6 @@ cards-deck: Theory of Computation::CNF
  - Eliminate ε-production
  - Eliminate unit production
 #### First step:: Find nullable variables
-<<<<<<< HEAD
 ^1608635693407
 
 **Basis**:: if A ->ε is a production of G, then A is nullable
@@ -54,7 +53,6 @@ Induction:: Let's (A, B) be a unit pair and let B -> C is a production, where A,
 
 # Lecture Video:
 <iframe src="https://drive.google.com/file/d/1KYIwuHmL9NdWDaqsBkGPLKeTOYadmNae/preview" width="640" height="480"></iframe>
-=======
 
 Basis:: if A ->ε is a production of G, then A is nullable
 
