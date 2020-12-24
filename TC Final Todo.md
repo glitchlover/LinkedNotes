@@ -1,6 +1,6 @@
 [[999.1 Todo]]
 # TC
-- [ ] CFG page:20
+- [x] CFG page:20
 	- [x] left most derivation
 	- [x] right most derivation
 	- [x] Ambiguity
@@ -21,5 +21,5 @@
 - [ ] Data -7
 - [ ] 8
 - [ ] 9
-- [ ] swithching
+- [x] swithching
 - [ ] error

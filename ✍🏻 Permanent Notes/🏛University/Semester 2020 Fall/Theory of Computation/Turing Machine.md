@@ -25,8 +25,6 @@ The Turing machine — was this: #card
 	- (4) At any time, the machine is in one of a finite number of internal states.
 	- (5) The machine has instructions that determine what it does given its internal state and the symbol it encounters on the tape
 ^1608214071677
-
-
 		- The instruction of the Turing machine can #card 
 			-   change its internal state;
 			-   change the symbol on the square; 
