@@ -62,14 +62,15 @@ The arguments of transition function are #card
 ^1608565482534
   
 δ(q, a, Z) -> (p, α). Explain #card 
-- p is a new state; α is a string of stack symbols that replaces Z at the top of the stack
+- p is a new state;
+-  α is a string of stack symbols that replaces Z at the top of the stack
 - ![[Pasted image 20201222140652.png]]
 ^1608635708172
 
 ### Example
 The following diagram shows a transition in a PDA from a state q<sub>1</sub> to state q<sub>2</sub>, labeled as a,b → c. What are a,b and c are? #card 
 ![https://www.tutorialspoint.com/automata_theory/images/transition_in_a_pda.jpg](https://www.tutorialspoint.com/automata_theory/images/transition_in_a_pda.jpg)
-This means at state **q<sub>1</sub>**, if we encounter an input string **‘a’** and top symbol of the stack is **‘b’**, then we pop **‘b’**, push **‘c’** on top of the stack and move to state **q<sub>2</sub>**.
+This means at state *$q_1$*, if we encounter an input string **‘a’** and top symbol of the stack is **‘b’**, then we pop **‘b’**, push **‘c’** on top of the stack and move to state *$q_2$.*
 ^1608565482908
 ----
 
@@ -77,7 +78,7 @@ This means at state **q<sub>1</sub>**, if we encounter an input string **‘a’
 - In δ(q, a, Z) contains (p,α) and the stack 
 	- if α = ε then stack is :: poped
 ^1608635708686
-	- if α = X then stack is :: replaced by X
+	- if α = Z then stack is :: unchanged
 ^1608635709161
 	- if α = YZ then Stack is:: replaced and y and z is pushed 
 ^1608635709687
