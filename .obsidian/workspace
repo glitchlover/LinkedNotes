@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "3e24ed0f808b8f8e",
+        "id": "89af18cad8b136a7",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Theory of Computation/Turing Machine.md",
+            "file": "Assignment.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -19,12 +19,12 @@
         }
       },
       {
-        "id": "968c03d5892c5c09",
+        "id": "fc4515ecba8356a4",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Theory of Computation/Turing Machine.md",
+            "file": "Assignment.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -40,8 +40,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Theory of Computation/Turing Machine.md",
-            "mode": "source"
+            "file": "Assignment.md",
+            "mode": "preview"
           }
         }
       }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Theory of Computation/Turing Machine.md",
+                "file": "Assignment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,6 +125,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Assignment.md",
     "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/Theory of Computation/Turing Machine.md",
     "TC Final Todo.md",
     "Untitled 2.md",
@@ -133,7 +134,6 @@
     "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/DC/Bandwidth-Utilization-#Lecture-14,-#Lecture-15.md",
     "Daily Notes/_Template.md",
     "Daily Notes/Wednesday 16th, Dec 2020 (351st).md",
-    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/DC/Switching.md",
-    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/DC/Error Detection and Correction.md"
+    "✍🏻 Permanent Notes/🏛University/Semester 2020 Fall/DC/Switching.md"
   ]
 }

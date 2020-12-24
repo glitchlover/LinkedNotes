@@ -57,7 +57,22 @@ date updated: '2020-12-20T11:42:42+06:00'
 >Under the assumption that the pandemic and required containment peaks in the second quarter for most countries in the world, and recedes in the second half of this year, in the April [_World Economic Outlook_](https://www.imf.org/en/Publications/WEO/Issues/2020/04/14/weo-april-2020) we project global growth in 2020 to fall to -3 percent. This is a downgrade of 6.3 percentage points from January 2020, a major revision over a very short period. This makes the Great Lockdown the worst recession since the Great Depression, and far worse than the Global Financial Crisis.[![](https://blogs.imf.org/wp-content/uploads/2020/04/eng-apr-12-weo1.png)](https://blogs.imf.org/wp-content/uploads/2020/04/eng-apr-12-weo1.png)
 >[source](https://blogs.imf.org/2020/04/14/the-great-lockdown-worst-economic-downturn-since-the-great-depression/)
 # Effect on unemployment
+> ![https://www.bmj.com/content/bmj/371/bmj.m3687/F1.medium.jpg](https://www.bmj.com/content/bmj/371/bmj.m3687/F1.medium.jpg)
+> Although unemployment soared in response to covid-19 in some nations, the policy measures undertaken by others have prevented many workers from becoming technically unemployed. In the United Kingdom, the headline rate of unemployment for April-June 2020 was 3.9%—only slightly higher than the 3.89% rate in April-June 2019. Yet in June 2020 9.3 million people were in the coronavirus job retention scheme (“furlough”) and another 2.7 million had claimed a self-employment income support scheme grant; there had been the largest ever decrease in weekly hours worked; 650 000 fewer workers were reported on payrolls in June than in March; and the benefit claimant count had more than doubled from 1.24 million to 2.63 million people.[3](https://www.bmj.com/content/371/bmj.m3687#ref-3) The Australian Bureau of Statistics has produced an adjusted estimate of Australian unemployment that includes all those temporarily stood down or laid off, to allow a closer comparison with US and Canadian statistics ([fig 1](https://www.bmj.com/content/371/bmj.m3687#F1)). As emergency support measures are wound back, concern is growing that the downwards trend from the April peak might not be maintained in coming months.
 
+[RETURN TO TEXT](https://www.bmj.com/content/371/bmj.m3687#xref-boxed-text-1-1)
+
+[![Fig 1](https://www.bmj.com/content/bmj/371/bmj.m3687/F1.medium.jpg)
+
+View fullscreen
+
+
+
+](https://www.bmj.com/content/bmj/371/bmj.m3687/F1.large.jpg?width=800&height=600 "Unemployment rates in Australia, Canada, and the United States from March to July 2020.4")
+
+Fig 1
+
+Unemployment rates in Australia, Canada, and the United States from March to July 2020.[4](https://www.bmj.com/content/371/bmj.m3687#ref-4)
 
 # Effect on Inflation
 
