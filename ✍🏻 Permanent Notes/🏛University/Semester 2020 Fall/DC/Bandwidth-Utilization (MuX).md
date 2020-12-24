@@ -42,3 +42,4 @@ cards-deck: Digital Communication::Bandwidth-Utilization(MuX)
 		- ![](https://remnote-user-data.s3.amazonaws.com/GazFJOF35wlE6W1ahaDz0OCcYiKYPCwP9Jq1eXL-3RKkvGm5zwUjCQkeDDCWVr5ZGaqPHSzbOpNxKfUPEVHkaw_llzIrnJhjcM2-dH2TYElyX38bgU26Skx4JPpKfNpX)  
 - 
 - [Message](../Message.md):: review the video once more #Message
+^1608796552474
