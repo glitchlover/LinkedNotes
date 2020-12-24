@@ -8,12 +8,12 @@
 	- [x] removing ambiguity 
 - [x] CNF
 - [ ] pushdown
-	- [ ] transition function
+	- [x] transition function
 	- [ ] instansitious diagram
 	- [ ] grammer to pushdown automata
 	- [ ] How pda works
-- [ ] turing Machine
-	- [ ] how to draw pda
+- [x] turing Machine
+	- [x] how to draw pda
 
 
 # DC

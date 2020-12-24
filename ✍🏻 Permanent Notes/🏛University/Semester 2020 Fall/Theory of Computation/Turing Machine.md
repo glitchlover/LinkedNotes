@@ -18,19 +18,19 @@ Turing asked a question
 ## Defining Turing Machine
 
 The Turing machine — was this: #card
--	![[Pasted image 20201217184508.png]]
-	- (1) A tape of infinite length
-	- (2) Finitely many squares of the tape have a single symbol from a finite language.
-	- (3) Someone (or something) that can read the squares and write in them.
-	- (4) At any time, the machine is in one of a finite number of internal states.
-	- (5) The machine has instructions that determine what it does given its internal state and the symbol it encounters on the tape
+![[Pasted image 20201217184508.png]]
+- (1) A tape of infinite length
+- (2) Finitely many squares of the tape have a single symbol from a finite language.
+- (3) Someone (or something) that can read the squares and write in them.
+- (4) At any time, the machine is in one of a finite number of internal states.
+- (5) The machine has instructions that determine what it does given its internal state and the symbol it encounters on the tape
 ^1608214071677
-		- The instruction of the Turing machine can #card 
-			-   change its internal state;
-			-   change the symbol on the square; 
-			-   move forward;  
-			-   move backward;  
-			-   halt (i.e. stop).
+	- The instruction of the Turing machine can #card 
+		-   change its internal state;
+		-   change the symbol on the square; 
+		-   move forward;  
+		-   move backward;  
+		-   halt (i.e. stop).
 ^1608214072323
 
 ### The Tape Head #card 
@@ -67,6 +67,7 @@ here is  how δ looks like #card
 ```(q0, a) → (q1, A, R)```
 That means in q0 state, if we read symbol 'a' then it will go to state q1, replaced a by X and move ahead right(R stands for right).
 ^1608214074248
+
 [[🔴 999.2 Edit Later|finish]]
 ## Instantaneous Description of a Turing machine
 What is instantaneos description? #card  
