@@ -36,9 +36,6 @@ How datagram Network works?
 A trivial datagram network -
 ![[Pasted image 20201223175323.png]]
 
-- How do the d
-
-
 ### Virtual-Circuit Networks
 - What is virtual circuit network? #card 
 	- A virtual-circuit network is a cross between a circuit-switched network and a datagram network
